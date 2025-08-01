@@ -1,4 +1,3 @@
-
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -6,26 +5,11 @@ import QuestionCard from '../components/QuestionCard';
 import ProgressBar from '../components/ProgressBar';
 import ResultModal from '../components/ResultModal';
 
-type Question = {
-  ano: number;
-  materia: string;
-  questao: string;
-  alternativas: {
-    a: string;
-    b: string;
-    c: string;
-    d: string;
-    e: string;
-  };
-  gabarito: string;
-  imagens: string[];
-};
-
 export default function Home() {
-  const [questions, setQuestions] = useState<Question[]>([]);
+  const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
-  const [userAnswers, setUserAnswers] = useState<string[]>([]);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+  const [userAnswers, setUserAnswers] = useState([]);
   const [showModal, setShowModal] = useState(false);
   const [quizStarted, setQuizStarted] = useState(false);
 
@@ -42,7 +26,7 @@ export default function Home() {
     }
   }, [quizStarted]);
 
-  const handleAnswer = (answer: string) => {
+  const handleAnswer = (answer) => {
     setSelectedAnswer(answer);
     setTimeout(() => {
       setUserAnswers([...userAnswers, answer]);
