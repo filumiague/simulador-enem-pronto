@@ -86,10 +86,11 @@ export default function Home() {
       )}
       <ResultModal
         show={showModal}
-        questoes={questoes}
-        respostas={userAnswers}
+        questions={questoes}
+        userAnswers={userAnswers}
         onRestart={restartQuiz}
       />
     </div>
   )
 }
+
