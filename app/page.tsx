@@ -1,4 +1,3 @@
-
 'use client'
 
 import { useEffect, useState } from 'react'
@@ -79,7 +78,7 @@ export default function Home() {
         <>
           <ProgressBar current={currentQuestionIndex + 1} total={questoes.length} />
           <QuestionCard
-            questao={questoes[currentQuestionIndex]}
+            question={questoes[currentQuestionIndex]} {/* Alterado de questao para question */}
             selected={selectedAnswer}
             onAnswer={handleAnswer}
           />
