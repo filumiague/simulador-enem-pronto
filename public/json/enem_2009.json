@@ -1,0 +1,1010 @@
+[
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nO antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem",
+    "alternativas": {
+      "a": "entre 12 e 24 nêutrons a menos que o número de prótons.",
+      "b": "exatamente o mesmo número de prótons e nêutrons.",
+      "c": "entre 0 e 12 nêutrons a mais que o número de prótons.",
+      "d": "entre 12 e 24 nêutrons a mais que o número de prótons.",
+      "e": "entre 0 e 12 nêutrons a menos que o número de prótons."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/29-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na atmosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantidade de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local.\nConsiderando-se as informações do texto e do gráfico, conclui-se que",
+    "alternativas": {
+      "a": "a insolação é um fator que provoca variação da umidade relativa do ar.",
+      "b": "o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.",
+      "c": "a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.",
+      "d": "a umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.",
+      "e": "a variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/24-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A luta pela terra no Brasil é marcada por diversos aspectos que chamam a atenção. Entre os aspectos positivos, destaca-se a perseverança dos movimentos do campesinato e, entre os aspectos negativos, a violência que manchou de sangue essa história. Os movimentos pela reforma agrária articularam-se por todo o território nacional, principalmente entre 1985 e 1996, e conseguiram de maneira expressiva a inserção desse tema nas discussões pelo acesso à terra.O mapa seguinte apresenta a distribuição dos conflitos agrários em todas as regiões do Brasil nesse período, e o número de mortes ocorridas nessas lutas.\n\n\n\n\n\n\n\n\n\n\n\n\n\nOLIVEIRA, A. U. A longa marcha do campesinato brasileiro: movimentos sociais, conflitos e reforma agrária.  Revista Estudos Avançados. Vol. 15 n. 43, São Paulo, set./dez. 2001.\nCom base nas informações do mapa acerca dos conflitos pela posse de terra no Brasil, a região",
+    "alternativas": {
+      "a": "conhecida historicamente como das Missões Jesuíticas é a de maior violência.",
+      "b": "do Bico do Papagaio apresenta os números mais expressivos.",
+      "c": "conhecida como oeste baiano tem o maior número de mortes.",
+      "d": "do norte do Mato Grosso, área de expansão da agricultura mecanizada, é a mais violenta do país.",
+      "e": "da Zona da Mata mineira teve o maior registro de mortes."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/77-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nA partir do mapa apresentado, é possível inferir que nas últimas décadas do século XX, registraram-se processos que resultaram em transformações na distribuição das atividades econômicas e da população sobre o território brasileiro, com reflexos no PIB por habitante. Assim,",
+    "alternativas": {
+      "a": "as desigualdades econômicas existentes entre regiões brasileiras desapareceram, tendo em vista a modernização tecnológica e o crescimento vivido pelo país.",
+      "b": "os novos fluxos migratórios instaurados em direção ao Norte e ao Centro-Oeste do país prejudicaram o desenvolvimento socioeconômico dessas regiões, incapazes de atender ao crescimento da demanda por postos de trabalho.",
+      "c": "o Sudeste brasileiro deixou de ser a região com o maior PIB industrial a partir do processo de desconcentração espacial do setor, em direção a outras regiões do país.",
+      "d": "o avanço da fronteira econômica sobre os estados da região Norte e do Centro-Oeste resultou no desenvolvimento e na introdução de novas atividades econômicas, tanto nos setores primário e secundário, como no terciário.",
+      "e": "o Nordeste tem vivido, ao contrário do restante do país, um período de retração econômica, como consequência da falta de investimentos no setor industrial com base na moderna tecnologia."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/73-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "O gráfico mostra o percentual de áreas ocupadas, segundo o tipo de propriedade rural no Brasil, no ano de 2006.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMDA/INCRA (DIEESE, 2006)\nDisponível em: http://www.sober.org.br. Acesso em: 6 ago. 2009.\nDe acordo com o gráfico e com referência à distribuição das áreas rurais no Brasil, conclui-se que",
+    "alternativas": {
+      "a": "imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões.",
+      "b": "o índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola.",
+      "c": "o percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra.",
+      "d": "a região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental.",
+      "e": "a região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/78-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "No mundo contemporâneo, as reservas energéticas tornam-se estratégicas para muitos países no cenário internacional. Os gráficos apresentados mostram os dez países com as maiores reservas de petróleo e gás natural em reservas comprovadas até janeiro de 2008.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisponível em: http://indexmundi.com. Acesso em: 12 ago. 2009 (adaptado).\nAs reservas venezuelanas figuram em ambas as classificações porque",
+    "alternativas": {
+      "a": "a Venezuela já está integrada ao MERCOSUL.",
+      "b": "são reservas comprovadas, mas ainda inexploradas.",
+      "c": "podem ser exploradas sem causarem alterações ambientais.",
+      "d": "já estão comprometidas com o setor industrial interno daquele país.",
+      "e": "a Venezuela é uma grande potência energética mundial."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/83-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Na figura, observa-se uma classificação de regiões da América do Sul segundo o grau de aridez verificado.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisponível em: http:// www.mutirao.com.br.\nAcesso em: 5 ago. 2009.\nEm relação às regiões marcadas na figura, observa-se que",
+    "alternativas": {
+      "a": "a existência de áreas superáridas, áridas e semiáridas é resultado do processo de desertificação, de intensidade variável, causado pela ação humana.",
+      "b": "o emprego de modernas técnicas de irrigação possibilitou a expansão da agricultura em determinadas áreas do semiárido, integrando-as ao comércio internacional.",
+      "c": "o semiárido, por apresentar déficit de precipitação, passou a ser habitado a partir da Idade Moderna, graças ao avanço científico e tecnológico.",
+      "d": "as áreas com escassez hídrica na América do Sul se restringem às regiões tropicais, onde as médias de temperatura anual são mais altas, justificando a falta de desenvolvimento e os piores indicadores sociais.",
+      "e": "o mesmo tipo de cobertura vegetal é encontrado nas áreas superáridas, áridas e semiáridas, mas essa cobertura, embora adaptada às condições climáticas, é desprovida de valor econômico."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/87-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "BETHEL, L. História da América. V. I. São Paulo. (Foto: EDUSP)\nAs terras brasileiras foram divididas por meio de tratados entre Portugal e Espanha. De acordo com esses tratados, identificados no mapa, conclui-se que",
+    "alternativas": {
+      "a": "Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.",
+      "b": "o Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.",
+      "c": "o Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.",
+      "d": "Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.",
+      "e": "o Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/84-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nReunindo-se as informações contidas nas duas charges, infere-se que",
+    "alternativas": {
+      "a": "os regimes climáticos da Terra são desprovidos de padrões que os caracterizem.",
+      "b": "as intervenções humanas nas regiões polares são mais intensas que em outras partes do globo.",
+      "c": "o processo de aquecimento global será detido com a eliminação das queimadas.",
+      "d": "a destruição das florestas tropicais é uma das causas do aumento da temperatura em locais distantes como os polos.",
+      "e": "os parâmetros climáticos modificados pelo homem afetam todo o planeta, mas os processos naturais têm alcance regional."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/85-images/context_img_0.png,enem-data/enem-2009/85-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nNa parte superior do anúncio, há um comentário escrito à mão que aborda a questão das atividades linguísticas e sua relação com as modalidades oral e escrita da língua. Esse comentário deixa evidente uma posição crítica quanto a usos que se fazem da linguagem, enfatizando ser necessário",
+    "alternativas": {
+      "a": "implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua .",
+      "b": "conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita.",
+      "c": "dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção.",
+      "d": "empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita.",
+      "e": "utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/125-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4.\nSuponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135º graus no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF. Considerando que a direção seguida por um avião é sempre dada pela semirreta com origem na cidade de partida e que passa pela cidade destino do avião, pela descrição dada, o passageiro Carlos fez uma conexão em",
+    "alternativas": {
+      "a": "Belo Horizonte, e em seguida embarcou para Curitiba.",
+      "b": "Belo Horizonte, e em seguida embarcou para Salvador.",
+      "c": "Boa Vista, e em seguida embarcou para Porto Velho.",
+      "d": "Goiânia, e em seguida embarcou para o Rio de Janeiro.",
+      "e": "Goiânia, e em seguida embarcou para Manaus."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/165-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nO texto exemplifica um gênero textual híbrido entre carta e publicidade oficial. Em seu conteúdo, é possível perceber aspectos relacionados a gêneros digitais. Considerando-se a função social das informações geradas nos sistemas de comunicação e informação presentes no texto, infere-se que",
+    "alternativas": {
+      "a": "a utilização do termo download indica restrição de leitura de informações a respeito de formas de combate à dengue.",
+      "b": "a diversidade dos sistemas de comunicação empregados e mencionados reduz a possibilidade de acesso às informações a respeito do combate à dengue.",
+      "c": "a utilização do material disponibilizado para download no site www.combatadengue.com.br restringe-se ao receptor da publicidade.",
+      "d": "a necessidade de atingir públicos distintos se revela por meio da estratégia de disponibilização de informações empregada pelo emissor.",
+      "e": "a utilização desse gênero textual compreende, no próprio texto, o detalhamento de informações a respeito de formas de combate à dengue."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/126-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "O governo cedeu terrenos para que famílias construíssem suas residências com a condição de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. Ao receber o terreno retangular ABCD, em que AB= BC/2 , Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual AE = AB/5 é lado do quadrado.\nNesse caso, a área definida por Antônio atingiria exatamente o limite determinado pela condição se ele",
+    "alternativas": {
+      "a": "duplicasse a medida do lado do quadrado.",
+      "b": "triplicasse a medida do lado do quadrado.",
+      "c": "triplicasse a área do quadrado.",
+      "d": "ampliasse a medida do lado do quadrado em 4%.",
+      "e": "ampliasse a área do quadrado em 4%."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/141-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nEntre as impurezas metálicas que constam na série apresentada, as que se sedimentam abaixo do ânodo de cobre são",
+    "alternativas": {
+      "a": "Au, Pt, Ag, Zn, Ni e Pb.",
+      "b": "Au, Pt e Ag.",
+      "c": "Zn, Ni e Pb.",
+      "d": "Au e Zn.",
+      "e": "Ag e Pb."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/15-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nConsidere-se que um auditório possua capacidade para 40 pessoas, cada uma produzindo uma quantidade média\nde calor, e que praticamente todo o calor que flui para fora do auditório o faz por meio dos aparelhos de ar condicionado. Nessa situação, entre as informações listadas, aquelas essenciais para se determinar quantos e/ou quais aparelhos de ar-condicionado são precisos para manter, com lotação máxima, a temperatura interna do auditório agradável e constante, bem como determinar a espessura da fiação do circuito elétrico para a ligação desses aparelhos, são",
+    "alternativas": {
+      "a": "vazão de ar e potência.",
+      "b": "vazão de ar e corrente elétrica - ciclo frio.",
+      "c": "eficiência energética e potência.",
+      "d": "capacidade de refrigeração e frequência.",
+      "e": "capacidade de refrigeração e corrente elétrica - ciclo frio."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/17-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nSe fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capacidade de geração da usina?",
+    "alternativas": {
+      "a": "Reduzir a quantidade de combustível fornecido à usina para ser queimado.",
+      "b": "Reduzir o volume de água do lago que circula no condensador de vapor.",
+      "c": "Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira.",
+      "d": "Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.",
+      "e": "Usar o calor liberado com os gases pela chaminé para mover um outro gerador."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/20-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nAumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustíveis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo?",
+    "alternativas": {
+      "a": "Aumentar a quantidade de combustível para queima na usina de força.",
+      "b": "Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.",
+      "c": "Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.",
+      "d": "Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.",
+      "e": "Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/14-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Analise a figura.\nSupondo que seja necessário dar um título para essa figura, a alternativa que melhor traduziria o processo representado seria:",
+    "alternativas": {
+      "a": "Concentração média de álcool no sangue ao longo do dia.",
+      "b": "Variação da frequência da ingestão de álcool ao longo das horas.",
+      "c": "Concentração mínima de álcool no sangue a partir de diferentes dosagens.",
+      "d": "Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool.",
+      "e": "Representação gráfica da distribuição de frequência de álcool em determinada hora do dia."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/3-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A figura seguinte representa um modelo de transmissão da informação genética nos sistemas biológicos. No fim do processo, que inclui a replicação, a transcrição e a tradução, há três formas proteicas diferentes denominadas a, b e c.\nDepreende-se do modelo que",
+    "alternativas": {
+      "a": "a única molécula que participa da produção de proteínas é o DNA.",
+      "b": "o fluxo de informação genética, nos sistemas biológicos, é unidirecional.",
+      "c": "as fontes de informação ativas durante o processo de transcrição são as proteínas.",
+      "d": "é possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição.",
+      "e": "a molécula de DNA possui forma circular e as demais moléculas possuem forma de fita simples linearizadas."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/16-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada deverá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação entre as áreas dos cômodos (em m²) e as potências das lâmpadas (em W), e foi utilizado como referência para o primeiro pavimento de uma residência.\nConsiderando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em watts, será de",
+    "alternativas": {
+      "a": "4.070.",
+      "b": "4.270.",
+      "c": "4.320.",
+      "d": "4.390.",
+      "e": "4.470."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/19-images/context_img_0.png,enem-data/enem-2009/19-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nConsiderando o texto e as leis de Kepler, pode-se afirmar que a frase dita pelo astronauta",
+    "alternativas": {
+      "a": "se justifica porque o tamanho do telescópio determina a sua massa, enquanto seu pequeno peso decorre da falta de ação da aceleração da gravidade.",
+      "b": "se justifica ao verificar que a inércia do telescópio é grande comparada à dele próprio, e que o peso do telescópio é pequeno porque a atração gravitacional criada por sua massa era pequena.",
+      "c": "não se justifica, porque a avaliação da massa e do peso de objetos em órbita tem por base as leis de Kepler, que não se aplicam a satélites artificiais.",
+      "d": "não se justifica, porque a força-peso é a força exercida pela gravidade terrestre, neste caso, sobre o telescópio e é a responsável por manter o próprio telescópio em órbita.",
+      "e": "não se justifica, pois a ação da força-peso implica a ação de uma força de reação contrária, que não existe naquele ambiente. A massa do telescópio poderia ser avaliada simplesmente pelo seu volume."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/25-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Em solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico correspondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio:\n\n\n\n\n\n\n\n\n\n\n\n\nUma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado para a direita.\nCom base nas informações do texto, é correto concluir que os sabões atuam de maneira:",
+    "alternativas": {
+      "a": "mais eficiente em pH básico.",
+      "b": "mais eficiente em pH ácido.",
+      "c": "mais eficiente em pH neutro.",
+      "d": "eficiente em qualquer faixa de pH.",
+      "e": "mais eficiente em pH ácido ou neutro."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/12-images/context_img_0.png,enem-data/enem-2009/12-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Um medicamento, após ser ingerido, atinge a corrente sanguínea e espalha-se pelo organismo, mas, como suas moléculas “não sabem” onde é que está o problema, podem atuar em locais diferentes do local “alvo” e desencadear efeitos além daqueles desejados. Não seria perfeito se as moléculas dos medicamentos soubessem exatamente onde está o problema e fossem apenas até aquele local exercer sua ação? A técnica conhecida como iontoforese, indolor e não invasiva, promete isso. Como mostram as figuras, essa nova técnica baseia-se na aplicação de uma corrente elétrica de baixa intensidade sobre a pele do paciente, permitindo que fármacos permeiem membranas biológicas e alcancem a corrente sanguínea, sem passar pelo estômago. Muitos pacientes relatam apenas um formigamento no local de aplicação. O objetivo da corrente elétrica é formar poros que permitam a passagem do fármaco de interesse. A corrente elétrica é distribuída por eletrodos, positivo e negativo, por meio de uma solução aplicada sobre a pele. Se a molécula do medicamento tiver carga elétrica positiva ou negativa, ao entrar em contato com o eletrodo de carga de mesmo sinal, ela será repelida e forçada a entrar na pele (eletrorrepulsão – A). Se for neutra, a molécula será forçada a entrar na pele juntamente com o fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose – B).\nDe acordo com as informações contidas no texto e nas figuras, o uso da iontoforese",
+    "alternativas": {
+      "a": "provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio.",
+      "b": "aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica.",
+      "c": "inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio da pele.",
+      "d": "diminui o efeito colateral dos medicamentos, se comparados com aqueles em que a ingestão se faz por via oral.",
+      "e": "deve ser eficaz para medicamentos constituídos de moléculas polares e ineficaz, se essas forem apolares."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/21-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Uma pesquisadora deseja reflorestar uma área de mata ciliar quase que totalmente desmatada. Essa formação vegetal é um tipo de floresta muito comum nas margens de rios dos cerrados no Brasil central e, em seu clímax, possui vegetação arbórea perene e apresenta dossel fechado, com pouca incidência luminosa no solo e nas plântulas. Sabe-se que a incidência de luz, a disponibilidade de nutrientes e a umidade do solo são os principais fatores do meio ambiente físico que influenciam no desenvolvimento da planta. Para testar unicamente os efeitos da variação de luz, a pesquisadora analisou, em casas de vegetação com condições controladas, o desenvolvimento de plantas de 10 espécies nativas da região desmatada sob quatro condições de luminosidade: uma sob sol pleno e as demais em diferentes níveis de sombreamento. Para cada tratamento experimental, a pesquisadora relatou se o desenvolvimento da planta foi bom, razoável ou ruim, de acordo com critérios específicos. Os resultados obtidos foram os seguintes:\nPara o reflorestamento da região desmatada,",
+    "alternativas": {
+      "a": "a espécie 8 é mais indicada que a 1, uma vez que aquela possui melhor adaptação a regiões com maior incidência de luz.",
+      "b": "recomenda-se a utilização de espécies pioneiras, isto é, aquelas que suportam alta incidência de luz, como as espécies 2, 3 e 5.",
+      "c": "sugere-se o uso de espécies exóticas, pois somente essas podem suportar a alta incidência luminosa característica de regiões desmatadas.",
+      "d": "espécies de comunidade clímax, como as 4 e 7, são as mais indicadas, uma vez que possuem boa capacidade de aclimatação a diferentes ambientes.",
+      "e": "é recomendado o uso de espécies com melhor desenvolvimento à sombra, como as plantas das espécies 4, 6, 7, 9 e 10, pois essa floresta, mesmo no estágio de degradação referido, possui dossel fechado, o que impede a entrada de luz."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/28-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Os ratos Peromyscus polionotus encontram-se distribuídos em ampla região na América do Norte. A pelagem de ratos dessa espécie varia do marrom claro até o escuro, sendo que os ratos de uma mesma população têm coloração muito semelhante. Em geral, a coloração da pelagem também é muito parecida à cor do solo da região em que se encontram, que também apresenta a mesma variação de cor, distribuída ao longo de um gradiente sul-norte. Na figura, encontram-se representadas sete diferentes populações de P. polionotus. Cada população é representada pela pelagem do rato, por uma amostra de solo e por sua posição geográfica no mapa.\nO mecanismo evolutivo envolvido na associação entre cores de pelagem e de substrato é",
+    "alternativas": {
+      "a": "a alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.",
+      "b": "o fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.",
+      "c": "a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.",
+      "d": "a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.",
+      "e": "a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/33-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Os planos de controle e erradicação de doenças em animais envolvem ações de profilaxia e dependem em grande medida da correta utilização e interpretação de testes diagnósticos. O quadro mostra um exemplo hipotético de aplicação de um teste diagnóstico.\nConsiderando que, no teste diagnóstico, a sensibilidade é a probabilidade de um animal infectado ser classificado como positivo e a especificidade é a probabilidade de um animal não infectado ter resultado negativo, a interpretação do quadro permite inferir que",
+    "alternativas": {
+      "a": "a especificidade aponta um número de 5 falsos positivos.",
+      "b": "o teste, a cada 100 indivíduos infectados, classificaria 90 como positivos.",
+      "c": "o teste classificaria 96 como positivos em cada 100 indivíduos não infectados.",
+      "d": "ações de profilaxia são medidas adotadas para o tratamento de falsos positivos.",
+      "e": "testes de alta sensibilidade resultam em maior número de animais falsos negativos comparado a um teste de baixa sensibilidade."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/26-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nDentre os fenômenos decorrentes da interação entre a radiação e os átomos do indivíduo que permitem a obtenção desta imagem inclui-se a",
+    "alternativas": {
+      "a": "absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.",
+      "b": "maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.",
+      "c": "maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.",
+      "d": "maior refração ao atravessar os átomos de carbono que os átomos de cálcio.",
+      "e": "maior ionização de moléculas de água que de átomos de carbono."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/30-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nConsiderando que a distância entre a borda inferior e a borda superior da superfície refletora tenha 6 m de largura e que focaliza no receptor os 800 watts/m² de radiação provenientes do Sol, e que o calor específico da água é 1 cal g-1 ºC-1 = 4.200 J kg-1 ºC-1, então o comprimento linear do refletor parabólico necessário para elevar a temperatura de 1 m³ (equivalente a 1 t) de água de 20 °C para 100 °C, em uma hora, estará entre",
+    "alternativas": {
+      "a": "15 m e 21 m.",
+      "b": "22 m e 30 m.",
+      "c": "105 m e 125 m.",
+      "d": "680 m e 710 m.",
+      "e": "6.700 m e 7.150 m."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/35-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A invenção da geladeira proporcionou uma revolução no aproveitamento dos alimentos, ao permitir que fossem armazenados e transportados por longos períodos. A figura apresentada ilustra o processo cíclico de funcionamento de uma geladeira, em que um gás no interior de uma tubulação é forçado a circular entre o congelador e a parte externa da geladeira. É por meio dos processos de compressão, que ocorre na parte externa, e de expansão, que ocorre na parte interna, que o gás proporciona a troca de calor entre o interior e o exterior da geladeira.\n\nDisponível em: http://home.howstuffworks.com. Acesso em: 19 out. 2008 (adaptado).\nNos processos de transformação de energia envolvidos no funcionamento da geladeira,",
+    "alternativas": {
+      "a": "a expansão do gás é um processo que cede a energia necessária ao resfriamento da parte interna da geladeira.",
+      "b": "o calor flui de forma não-espontânea da parte mais fria, no interior, para a mais quente, no exterior da geladeira.",
+      "c": "a quantidade de calor cedida ao meio externo é igual ao calor retirado da geladeira.",
+      "d": "a eficiência é tanto maior quanto menos isolado termicamente do ambiente externo for o seu compartimento interno.",
+      "e": "a energia retirada do interior pode ser devolvida à geladeira abrindo-se a sua porta, o que reduz seu consumo de energia."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/39-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nÀ medida que aumenta a consciência sobre os impactos ambientais relacionados ao uso da energia, cresce a importância de se criar políticas de incentivo ao uso de combustíveis mais eficientes. Nesse sentido, considerando-se que o metano, o butano e o octano sejam representativos do gás natural, do gás liquefeito de petróleo (GLP) e da gasolina, respectivamente, então, a partir dos dados fornecidos, é possível concluir que, do ponto de vista da quantidade de calor obtido por mol de CO2 gerado, a ordem crescente desses três combustíveis é",
+    "alternativas": {
+      "a": "gasolina, GLP e gás natural.",
+      "b": "gás natural, gasolina e GLP.",
+      "c": "gasolina, gás natural e GLP.",
+      "d": "gás natural, GLP e gasolina.",
+      "e": "GLP, gás natural e gasolina."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/43-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nNessa situação, quais são as três lâmpadas que acendem com o mesmo brilho por apresentarem igual valor de corrente fluindo nelas, sob as quais devem se posicionar os três atores?",
+    "alternativas": {
+      "a": "L1, L2 e L3.",
+      "b": "L2, L3 e L4.",
+      "c": "L2, L5 e L7.",
+      "d": "L4, L5 e L6.",
+      "e": "L4, L7 e L8."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/44-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nOs principais recursos utilizados para envolvimento e adesão do leitor à campanha institucional incluem",
+    "alternativas": {
+      "a": "o emprego de enumeração de itens e apresentação de títulos expressivos.",
+      "b": "o uso de orações subordinadas condicionais e temporais.",
+      "c": "o emprego de pronomes como “você” e “sua” e o uso do imperativo.",
+      "d": "a construção de figuras metafóricas e o uso de repetição.",
+      "e": "o fornecimento de número de telefone gratuito para contato."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/98-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nO texto tem o objetivo de solucionar um problema social,",
+    "alternativas": {
+      "a": "descrevendo a situação do país em relação à gripe suína.",
+      "b": "alertando a população para o risco de morte pela Influenza A.",
+      "c": "informando a população sobre a iminência de uma pandemia de Influenza A.",
+      "d": "orientando a população sobre os sintomas da gripe suína e procedimentos para evitar a contaminação.",
+      "e": "convocando toda a população para se submeter a exames de detecção da gripe suína."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/97-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nA linguagem da tirinha revela",
+    "alternativas": {
+      "a": "o uso de expressões linguísticas e vocabulário próprios de épocas antigas.",
+      "b": "o uso de expressões linguísticas inseridas no registro mais formal da língua.",
+      "c": "o caráter coloquial expresso pelo uso do tempo verbal no segundo quadrinho.",
+      "d": "o uso de um vocabulário específico para situações comunicativas de emergência.",
+      "e": "a intenção comunicativa dos personagens: a de estabelecer a hierarquia entre eles."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/109-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nTendo em vista a segunda fala do personagem entrevistado, constata-se que",
+    "alternativas": {
+      "a": "o entrevistado deseja convencer o jornalista a não publicar um livro.",
+      "b": "o principal objetivo do entrevistado é explicar o significado da palavra motivação.",
+      "c": "são utilizados diversos recursos da linguagem literária, tais como a metáfora e a metonímia.",
+      "d": "o entrevistado deseja informar de modo objetivo o jornalista sobre as etapas de produção de um livro.",
+      "e": "o principal objetivo do entrevistado é evidenciar seu sentimento com relação ao processo de produção de um livro."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/102-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Analise as seguintes avaliações de possíveis resultados de\num teste na Internet.\nDepreende-se, a partir desse conjunto de informações, que o teste que deu origem a esses resultados, além de estabelecer um perfil para o usuário de sites de relacionamento, apresenta preocupação com hábitos e propõe mudanças de comportamento direcionadas",
+    "alternativas": {
+      "a": "ao adolescente que acessa sites de entretenimento.",
+      "b": "ao profissional interessado em aperfeiçoamento tecnológico.",
+      "c": "à pessoa que usa os sites de relacionamento para complementar seu círculo de amizades.",
+      "d": "ao usuário que reserva mais tempo aos sites de relacionamento do que ao convívio pessoal com os amigos.",
+      "e": "ao leitor que se interessa em aprender sobre o funcionamento de diversos tipos de sites de relacionamento."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/93-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nOs quadrinhos exemplificam que as Histórias em Quadrinhos constituem um gênero textual",
+    "alternativas": {
+      "a": "em que a imagem pouco contribui para facilitar a interpretação da mensagem contida no texto, como pode ser constatado no primeiro quadrinho.",
+      "b": "cuja linguagem se caracteriza por ser rápida e clara, que facilita a compreensão, como se percebe na fala do segundo quadrinho: “</DIV> </SPAN> &ltBR CLEAR = ALL> < BR> &ltBR> &ltSCRIPT>”.",
+      "c": "em que o uso de letras com espessuras diversas está ligado a sentimentos expressos pelos personagens, como pode ser percebido no último quadrinho.",
+      "d": "que possui em seu texto escrito características próximas a uma conversação face a face, como pode ser percebido no segundo quadrinho.",
+      "e": "que a localização casual dos balões nos quadrinhos expressa com clareza a sucessão cronológica da história, como pode ser percebido no segundo quadrinho."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/106-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A feição deles é serem pardos, maneira d’avermelhados, de bons rostos e bons narizes, bem feitos. Andam nus, sem nenhuma cobertura, nem estimam nenhuma cousa cobrir, nem mostrar suas vergonhas. E estão acerca disso com tanta inocência como têm em mostrar o rosto.\n\nCAMINHA, P. V. A carta. Disponível em: www.dominiopublico.gov.br.\nAcesso em: 12 ago. 2009.\nAo se estabelecer uma relação entre a obra de Eckhout e o trecho do texto de Caminha, conclui-se que",
+    "alternativas": {
+      "a": "ambos se identificam pelas características estéticas marcantes, como tristeza e melancolia, do movimento romântico das artes plásticas.",
+      "b": "o artista, na pintura, foi fiel ao seu objeto, representando-o de maneira realista, ao passo que o texto é apenas fantasioso.",
+      "c": "a pintura e o texto têm uma característica em comum, que é representar o habitante das terras que sofreriam processo colonizador.",
+      "d": "o texto e a pintura são baseados no contraste entre a cultura europeia e a cultura indígena.",
+      "e": "há forte direcionamento religioso no texto e na pintura, uma vez que o índio representado é objeto da catequização jesuítica."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/113-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Você sabia que as metrópoles são as grandes consumidoras dos produtos feitos com recursos naturais da Amazônia? Você pode diminuir os impactos à floresta adquirindo produtos com selos de certificação. Eles são encontrados em itens que vão desde lápis e embalagens de papelão até móveis, cosméticos e materiais de construção. Para receber os selos esses produtos devem ser fabricados sob 10 princípios éticos, entre eles o respeito à legislação ambiental e aos direitos de povos indígenas e populações que vivem em nossas matas nativas.\n\nVida simples. Ed. 74, dez. 2008.\nO texto e a imagem têm por finalidade induzir o leitor a uma mudança de comportamento a partir do(a)",
+    "alternativas": {
+      "a": "consumo de produtos naturais provindos da Amazônia.",
+      "b": "cuidado na hora de comprar produtos alimentícios.",
+      "c": "verificação da existência do selo de padronização de produtos industriais.",
+      "d": "certificação de que o produto foi fabricado de acordo com os princípios éticos.",
+      "e": "verificação da garantia de tratamento dos recursos naturais utilizados em cada produto."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/114-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A música pode ser definida como a combinação de sons ao longo do tempo. Cada produto final oriundo da infinidade de combinações possíveis será diferente, dependendo da escolha das notas, de suas durações, dos instrumentos utilizados, do estilo de música, da nacionalidade do compositor e do período em que as obras foram compostas.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigura 1 – http://images.quebarato.com.br/photos/big/2/D/15A12D_2.jpg.\nFigura 2 – http://ourinhos.prefeituramunicipal.net/dados/fotos/2009/07/07/normal.\nFigura 3 – http://www.edmontonculturalcapital.com/gallery/edjazzfestival/JazzQuartet.jpg\nFigura 4 – http://www.filmica.com/jacintaescudos/archivos/Led-Zeppelin.jpg.\nDas figuras que apresentam grupos musicais em ação, pode-se concluir que o(os) grupo(s) mostrado(s) na(s) figura(s)",
+    "alternativas": {
+      "a": "1 executa um gênero característico da música brasileira, conhecido como chorinho.",
+      "b": "2 executa um gênero característico da música clássica, cujo compositor mais conhecido é Tom Jobim.",
+      "c": "3 executa um gênero característico da música europeia, que tem como representantes Beethoven e Mozart.",
+      "d": "4 executa um tipo de música caracterizada pelos instrumentos acústicos, cuja intensidade e nível de ruído permanecem na faixa dos 30 aos 40 decibéis.",
+      "e": "1 a 4 apresentam um produto final bastante semelhante, uma vez que as possibilidades de combinações sonoras ao longo do tempo são limitadas."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/94-images/context_img_0.png,enem-data/enem-2009/94-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "\nDiante dos recursos argumentativos utilizados, depreende-se que o texto apresentado",
+    "alternativas": {
+      "a": "se dirige aos líderes comunitários para tomarem a iniciativa de combater a dengue.",
+      "b": "conclama toda a população a participar das estratégias de combate ao mosquito da dengue.",
+      "c": "se dirige aos prefeitos, conclamando-os a organizarem iniciativas de combate à dengue.",
+      "d": "tem como objetivo ensinar os procedimentos técnicos necessários para o combate ao mosquito da dengue.",
+      "e": "apela ao governo federal, para que dê apoio aos governos estaduais e municipais no combate ao mosquito da dengue."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/127-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "O mapa ao lado representa um bairro de determinada cidade, no qual as flechas indicam o sentido das mãos do tráfego. Sabe-se que esse bairro foi planejado e que cada quadra representada na figura é um terreno quadrado, de lado igual a 200 metros.\nDesconsiderando-se a largura das ruas, qual seria o tempo, em minutos, que um ônibus, em velocidade constante e igual a 40 km/h, partindo do ponto X, demoraria para chegar até o ponto Y?",
+    "alternativas": {
+      "a": "25 min.",
+      "b": "15 min.",
+      "c": "2,5 min.",
+      "d": "1,5 min.",
+      "e": "0,15 min."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/136-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5ª nação mais rica do planeta, o Brasil é a 10ª, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007.\nOs dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor",
+    "alternativas": {
+      "a": "inferior a 300 milhões de dólares.",
+      "b": "superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.",
+      "c": "superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.",
+      "d": "superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.",
+      "e": "superior a 600 milhões de dólares."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/150-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.\nEm 2050, a probabilidade de se escolher, aleatoriamente, uma pessoa com 60 anos ou mais de idade, na população dos países desenvolvidos, será um número mais próximo de",
+    "alternativas": {
+      "a": "1/2.",
+      "b": "7/20.",
+      "c": "8/25.",
+      "d": "1/5.",
+      "e": "3/25."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/138-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "O gráfico a seguir mostra a evolução, de abril de 2008 a maio de 2009, da população economicamente ativa para seis Regiões Metropolitanas pesquisadas.\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisponível em: www.ibge.gov.br.\nConsiderando que a taxa de crescimento da população economicamente ativa, entre 05/09 e 06/09, seja de 4%, então o número de pessoas economicamente ativas em 06/09 será igual a",
+    "alternativas": {
+      "a": "23.940.",
+      "b": "32.228.",
+      "c": "920.800.",
+      "d": "23.940.800.",
+      "e": "32.228.000."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/143-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A população mundial está ficando mais velha, os índices de natalidade diminuíram e a expectativa de vida aumentou. No gráfico seguinte, são apresentados dados obtidos por pesquisa realizada pela Organização das Nações Unidas (ONU), a respeito da quantidade de pessoas com 60 anos ou mais em todo o mundo. Os números da coluna da direita representam as faixas percentuais. Por exemplo, em 1950 havia 95 milhões de pessoas com 60 anos ou mais nos países desenvolvidos, número entre 10% e 15% da população total nos países desenvolvidos.\n\n\n\n\n\n\n\n\n\n\n\nSuponha que o modelo exponencial y = 363e0,03x, em que x = 0 corresponde ao ano 2000, x = 1 corresponde ao ano 2001, e assim sucessivamente, e que y é a população em milhões de habitantes no ano x, seja usado para estimar essa população com 60 anos ou mais de idade nos países em desenvolvimento entre 2010 e 2050.\nDesse modo, considerando e0,3 = 1,35, estima-se que a população com 60 anos ou mais estará, em 2030, entre",
+    "alternativas": {
+      "a": "490 e 510 milhões.",
+      "b": "550 e 620 milhões.",
+      "c": "780 e 800 milhões.",
+      "d": "810 e 860 milhões.",
+      "e": "870 e 910 milhões."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/137-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Suponha que, na escultura do artista Emanoel Araújo, mostrada na figura a seguir, todos os prismas numerados em algarismos romanos são retos, com bases triangulares, e que as faces laterais do poliedro II são perpendiculares à sua própria face superior, que, por sua vez, é um triângulo congruente ao triângulo base dos prismas. Além disso, considere que os prismas I e III são perpendiculares ao prisma IV e ao poliedro II.\nImagine um plano paralelo à face α do prisma I, mas que passe pelo ponto P pertencente à aresta do poliedro II, indicado na figura. A interseção desse plano imaginário com a escultura contém",
+    "alternativas": {
+      "a": "dois triângulos congruentes com lados correspondentes paralelos.",
+      "b": "dois retângulos congruentes e com lados correspondentes paralelos.",
+      "c": "dois trapézios congruentes com lados correspondentes perpendiculares.",
+      "d": "dois paralelogramos congruentes com lados correspondentes paralelos.",
+      "e": "dois quadriláteros congruentes com lados correspondentes perpendiculares."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/151-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Uma pousada oferece pacotes promocionais para atrair casais a se hospedarem por até oito dias. A hospedagem seria em apartamento de luxo e, nos três primeiros dias, a diária custaria R$ 150,00, preço da diária fora da promoção. Nos três dias seguintes, seria aplicada uma redução no valor da diária, cuja taxa média de variação, a cada dia, seria de R$ 20,00. Nos dois dias restantes, seria mantido o preço do sexto dia. Nessas condições, um modelo para a promoção idealizada é apresentado no gráfico a seguir, no qual o valor da diária é função do tempo medido em número de dias.\nDe acordo com os dados e com o modelo, comparando o preço que um casal pagaria pela hospedagem por sete dias fora da promoção, um casal que adquirir o pacote promocional por oito dias fará uma economia de",
+    "alternativas": {
+      "a": "R$ 90,00.",
+      "b": "R$ 110,00.",
+      "c": "R$ 130,00.",
+      "d": "R$ 150,00.",
+      "e": "R$ 170,00."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/148-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A suspeita de que haveria uma relação causal entre tabagismo e câncer de pulmão foi levantada pela primeira vez a partir de observações clínicas. Para testar essa possível associação, foram conduzidos inúmeros estudos epidemiológicos. Dentre esses, houve o estudo do número de casos de câncer em relação ao número de cigarros consumidos por dia, cujos resultados são mostrados no gráfico a seguir.\nDe acordo com as informações do gráfico,",
+    "alternativas": {
+      "a": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.",
+      "b": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.",
+      "c": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.",
+      "d": "uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.",
+      "e": "o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/142-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A tabela mostra alguns dados da emissão de dióxido de carbono de uma fábrica, em função do número de toneladas produzidas.\nOs dados na tabela indicam que a taxa média de variação entre a emissão de dióxido de carbono (em ppm) e a produção (em toneladas) é",
+    "alternativas": {
+      "a": "inferior a 0,18.",
+      "b": "superior a 0,18 e inferior a 0,50.",
+      "c": "superior a 0,50 e inferior a 1,50.",
+      "d": "superior a 1,50 e inferior a 2,80.",
+      "e": "superior a 2,80."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/147-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Dados da Associação Nacional de Empresas de Transportes Urbanos (ANTU) mostram que o número de passageiros transportados mensalmente nas principais regiões metropolitanas do país vem caindo sistematicamente. Eram 476,7 milhões de passageiros em 1995, e esse número caiu para 321,9 milhões em abril de 2001. Nesse período, o tamanho da frota de veículos mudou pouco, tendo no final de 2008 praticamente o mesmo tamanho que tinha em 2001.\nO gráfico a seguir mostra um índice de produtividade utilizado pelas empresas do setor, que é a razão entre o total de passageiros transportados por dia e o tamanho da frota de veículos.\nSupondo que as frotas totais de veículos naquelas regiões metropolitanas em abril de 2001 e em outubro de 2008 eram do mesmo tamanho, os dados do gráfico permitem inferir que o total de passageiros transportados no mês de outubro de 2008 foi aproximadamente igual a",
+    "alternativas": {
+      "a": "355 milhões.",
+      "b": "400 milhões.",
+      "c": "426 milhões.",
+      "d": "441 milhões.",
+      "e": "477 milhões."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/139-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte.\n\n\n\n\n\n\n\n\n\n\n\nUm compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for 1/2 , poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras.\nUm trecho musical de oito compassos, cuja fórmula é 3/4 , poderia ser preenchido com",
+    "alternativas": {
+      "a": "24 fusas.",
+      "b": "3 semínimas.",
+      "c": "8 semínimas.",
+      "d": "24 colcheias e 12 semínimas.",
+      "e": "16 semínimas e 8 semicolcheias."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/144-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "As figuras a seguir exibem um trecho de um quebra-cabeças que está sendo montado. Observe que as peças são quadradas e há 8 peças no tabuleiro da figura A e 8 peças no tabuleiro da figura B. As peças são retiradas do tabuleiro da figura B e colocadas no tabuleiro da figura A na posição correta, isto é, de modo a completar os desenhos.\nÉ possível preencher corretamente o espaço indicado pela seta no tabuleiro da figura A colocando a peça",
+    "alternativas": {
+      "a": "1 após girá-la 90° no sentido horário.",
+      "b": "1 após girá-la 180° no sentido anti-horário.",
+      "c": "2 após girá-la 90° no sentido anti-horário.",
+      "d": "2 após girá-la 180° no sentido horário.",
+      "e": "2 após girá-la 270° no sentido anti-horário."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/145-images/context_img_0.png,enem-data/enem-2009/145-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A figura a seguir mostra as medidas reais de uma aeronave que será fabricada para utilização por companhias de transporte aéreo. Um engenheiro precisa fazer o desenho desse avião em escala de 1:150.\nPara o engenheiro fazer esse desenho em uma folha de papel, deixando uma margem de 1 cm em relação às bordas da folha, quais as dimensões mínimas, em centímetros, que essa folha deverá ter?",
+    "alternativas": {
+      "a": "2,9 cm × 3,4 cm.",
+      "b": "3,9 cm × 4,4 cm.",
+      "c": "20 cm × 25 cm.",
+      "d": "21 cm × 26 cm.",
+      "e": "192 cm × 242 cm."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/155-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Ao morrer, o pai de João, Pedro e José deixou como herança um terreno retangular de 3 km x 2 km que contém uma área de extração de ouro delimitada por um quarto de círculo de raio 1 km a partir do canto inferior esquerdo da propriedade. Dado o maior valor da área de extração de ouro, os irmãos acordaram em repartir a propriedade de modo que cada um ficasse com a terça parte da área de extração, conforme mostra a figura.\nEm relação à partilha proposta, constata-se que a porcentagem da área do terreno que coube a João corresponde, aproximadamente, a\n(considere  √3/3 = 0,58)",
+    "alternativas": {
+      "a": "50%.",
+      "b": "43%",
+      "c": "37%",
+      "d": "33%",
+      "e": "19%"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/164-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "O quadro apresenta informações da área aproximada de cada bioma brasileiro.\n\n\n\n\n\n\n\n\n\n\n\nÉ comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas\nNesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?",
+    "alternativas": {
+      "a": "1.400",
+      "b": "14.000",
+      "c": "140.000",
+      "d": "1.400.000",
+      "e": "14.000.000"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/168-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Uma fábrica produz velas de parafina em forma de pirâmide quadrangular regular com 19 cm de altura e 6 cm de aresta da base. Essas velas são formadas por 4 blocos de mesma altura — 3 troncos de pirâmide de bases paralelas e 1 pirâmide na parte superior —, espaçados de 1 cm entre eles, sendo que a base superior de cada bloco é igual à base inferior do bloco sobreposto, com uma haste de ferro passando pelo centro de cada bloco, unindo-os, conforme a figura.\nSe o dono da fábrica resolver diversificar o modelo, retirando a pirâmide da parte superior, que tem 1,5 cm de aresta na base, mas mantendo o mesmo molde, quanto ele passará a gastar com parafina para fabricar uma vela?",
+    "alternativas": {
+      "a": "156 cm³.",
+      "b": "189 cm³.",
+      "c": "192 cm³.",
+      "d": "216 cm³.",
+      "e": "540 cm³."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/170-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Na tabela, são apresentados dados da cotação mensal do ovo extra branco vendido no atacado, em Brasília, em reais, por caixa de 30 dúzias de ovos, em alguns meses dos anos 2007 e 2008.\nDe acordo com esses dados, o valor da mediana das cotações mensais do ovo extra branco nesse período era igual a",
+    "alternativas": {
+      "a": "R$ 73,10.",
+      "b": "R$ 81,50.",
+      "c": "R$ 82,00.",
+      "d": "R$ 83,00.",
+      "e": "R$ 85,30."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/167-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da água é de 1.050 m³/s. O cálculo da vazão, Q em m³/s, envolve o produto da área A do setor transversal (por onde passa a água), em m², pela velocidade da água no local, v, em m/s, ou seja, Q = Av.\nPlaneja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes.\nNa suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?",
+    "alternativas": {
+      "a": "90 m³/s.",
+      "b": "750 m³/s.",
+      "c": "1.050 m³/s.",
+      "d": "1.512 m³/s.",
+      "e": "2.009 m³/s."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/169-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Um experimento consiste em colocar certa quantidade de bolas de vidro idênticas em um copo com água até certo nível e medir o nível da água, conforme ilustrado na figura a seguir. Como resultado do experimento, concluiu-se que o nível da água é função do número de bolas de vidro que são colocadas dentro do copo.\n\n\n\n\n\n\n\n\n\n\n\nO quadro a seguir mostra alguns resultados do experimento realizado.\nQual a expressão algébrica que permite calcular o nível da água (y) em função do número de bolas (x)?",
+    "alternativas": {
+      "a": "y = 30x.",
+      "b": "y = 25x + 20,2.",
+      "c": "y = 1,27x.",
+      "d": "y = 0,7x.",
+      "e": "y = 0,07x + 6."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/159-images/context_img_0.png,enem-data/enem-2009/159-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja Q a projeção ortogonal de P sobre o eixo x, como mostra a figura, e suponha que o ponto P percorra, no sentido anti-horário, uma distância d ≤ r sobre a circunferência.\nEntão, o ponto Q percorrerá, no eixo x, uma distância dada por",
+    "alternativas": {
+      "a": "r( 1 - sen d/r ).",
+      "b": "r( 1 - cos d/r ).",
+      "c": "r( 1 - tag d/r ).",
+      "d": "rsen (r/d).",
+      "e": "rcos (r/d)."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/174-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Em Florença, Itália, na Igreja de Santa Croce, é possível encontrar um portão em que aparecem os anéis de Borromeo. Alguns historiadores acreditavam que os círculos representavam as três artes: escultura, pintura e arquitetura, pois elas eram tão próximas quanto inseparáveis.\nQual dos esboços a seguir melhor representa os anéis de Borromeo?",
+    "alternativas": {
+      "a": "enem-data/enem-2009/149-images/alt_img_0.png",
+      "b": "enem-data/enem-2009/149-images/alt_img_1.png",
+      "c": "enem-data/enem-2009/149-images/alt_img_2.png",
+      "d": "enem-data/enem-2009/149-images/alt_img_3.png",
+      "e": "enem-data/enem-2009/149-images/alt_img_4.png"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/149-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2009,
+    "materia": "Desconhecida",
+    "questao": "Nos últimos anos, o volume de petróleo exportado pelo Brasil tem mostrado expressiva tendência de crescimento, ultrapassando as importações em 2008. Entretanto, apesar de as importações terem se mantido praticamente no mesmo patamar desde 2001, os recursos gerados com as exportações ainda são inferiores àqueles despendidos com as importações, uma vez que o preço médio por metro cúbico do petróleo importado é superior ao do petróleo nacional. Nos primeiros cinco meses de 2009, foram gastos 2,84 bilhões de dólares com importações e gerada uma receita de 2,24 bilhões de dólares com as exportações. O preço médio por metro cúbico em maio de 2009 foi de 340 dólares para o petróleo importado e de 230 dólares para o petróleo exportado. O quadro a seguir mostra os dados consolidados de 2001 a 2008 e dos primeiros cinco meses de 2009.\n\n\n\n\n\n\n\n\n\n\n\nConsidere que as importações e exportações de petróleo de junho a dezembro de 2009 sejam iguais a 7/5 das\nimportações e exportações, respectivamente, ocorridas de janeiro a maio de 2009.\nNesse caso, supondo que os preços para importação e exportação não sofram alterações, qual seria o valor mais aproximado da diferença entre os recursos despendidos com as importações e os recursos gerados com as exportações em 2009?",
+    "alternativas": {
+      "a": "600 milhões de dólares.",
+      "b": "840 milhões de dólares.",
+      "c": "1,34 bilhão de dólares.",
+      "d": "1,44 bilhão de dólares.",
+      "e": "2,00 bilhões de dólares."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2009/2009-images/enem-data/enem-2009/172-images/context_img_0.png"
+    ]
+  }
+]

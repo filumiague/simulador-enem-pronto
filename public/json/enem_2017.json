@@ -1,0 +1,1138 @@
+[
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nComparando os dados das hidrelétricas, uma característica territorial positiva de Belo Monte é o(a)",
+    "alternativas": {
+      "a": "reduzido espaço relativo inundado.",
+      "b": "acentuado desnível do relevo local.",
+      "c": "elevado índice de urbanização regional.",
+      "d": "presença dos grandes parques industriais.",
+      "e": "proximidade de fronteiras internacionais estratégicas."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/49-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nElaborada em 1969, a releitura contida na Figura 2 revela aspectos de uma trajetória e obra dedicadas à",
+    "alternativas": {
+      "a": "valorização de uma representação tradicional da mulher.",
+      "b": "descaracterização de referências do folclore nordestino.",
+      "c": "fusão de elementos brasileiros à moda da Europa.",
+      "d": "massificação do consumo de uma arte local.",
+      "e": "criação de uma estética de resistência."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/48-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "SALGADO-LABOURIAU, M. L. História ecológica da Terra. São Paulo: Edgard Blucher, 1994 (adaptado).\nNas imagens constam informações sobre a formação de brisas em áreas litorâneas. Esse processo é resultado de",
+    "alternativas": {
+      "a": "uniformidade do gradiente de pressão atmosférica.",
+      "b": "aquecimento diferencial da superfície.",
+      "c": "quedas acentuadas de médias térmicas.",
+      "d": "mudanças na umidade relativa do ar.",
+      "e": "variações altimétricas acentuadas."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/60-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Disponível em: http://img0.cptec.inpe.br. Acesso em: 25 ago. 2014 (adaptado).\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado).\nNo dia em que foram colhidos os dados meteorológicos apresentados, qual fator climático foi determinante para explicar os índices de umidade relativa do ar nas regiões Nordeste e Sul?",
+    "alternativas": {
+      "a": "Altitude, que forma barreiras naturais.",
+      "b": "Vegetação, que afeta a incidência solar.",
+      "c": "Massas de ar, que provocam precipitações.",
+      "d": "Correntes marítimas, que atuam na troca de calor.",
+      "e": "Continentalidade, que influencia na amplitude da temperatura."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/70-images/context_img_0.png,enem-data/enem-2017/70-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nA leitura dos dados revela que as áreas com maior cobertura vegetal têm o potencial de intensificar o processo de",
+    "alternativas": {
+      "a": "erosão laminar.",
+      "b": "intemperismo físico.",
+      "c": "enchente nas cidades.",
+      "d": "compactação do solo.",
+      "e": "recarga dos aquíferos."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/75-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nA fotografia, datada de 1860, é um indício da cultura escravista no Brasil, ao expressara",
+    "alternativas": {
+      "a": "ambiguidade do trabalho doméstico exercido pela ama de leite, desenvolvendo uma relação de proximidade e subordinação em relação aos senhores.",
+      "b": "integração dos escravos aos valores das classes médias, cultivando a família como pilar da sociedade imperial.",
+      "c": "melhoria das condições de vida dos escravos observada pela roupa luxuosa, associando o trabalho doméstico a privilégios para os cativos.",
+      "d": "esfera da vida privada, centralizando a figura feminina para afirmar o trabalho da mulher na educação letrada dos infantes.",
+      "e": "distinção étnica entre senhores e escravos, demarcando a convivência entre estratos sociais como meio para superar a mestiçagem."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/83-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nAs temperaturas médias mensais e as taxas de pluviosidade expressas no climograma apresentam o clima típico da seguinte cidade:",
+    "alternativas": {
+      "a": "Cidade do Cabo (África do Sul), marcado pela reduzida amplitude térmica anual.",
+      "b": "Sydney (Austrália), caracterizado por precipitações abundantes no decorrer do ano.",
+      "c": "Mumbai (índia), definido pelas chuvas monçônicas torrenciais.",
+      "d": "Barcelona (Espanha), afetado por massas de ar seco.",
+      "e": "Moscou (Rússia), influenciado pela localização geográfica em alta latitude."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/80-images/context_img_0.png,enem-data/enem-2017/80-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes com a fase estacionária migram mais lentamente.\n \nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\nRIBEIRO, N.M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel, Química Nova na Escola, n.29, ago. 2008 (adaptado).\nA substância presente na mistura que migra mais lentamente é o(a)",
+    "alternativas": {
+      "a": "licopeno.",
+      "b": "α-caroteno.",
+      "c": "γ-caroteno.",
+      "d": "capsorubina.",
+      "e": "α-criptoxantina."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/131-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O3), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\n\n\n\n\n\n\n\n\n\n\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\n\n\n\n\n\n\n\n\n\n\n\n\n\nMARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado)\nQuais são os produtos formados nessa reação?",
+    "alternativas": {
+      "a": "Benzaldeído e propanona.",
+      "b": "Propanal e benzaldeído.",
+      "c": "2-fenil-etanal e metanal.",
+      "d": "Benzeno e propanona.",
+      "e": "Benzaldeído e etanal."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/128-images/context_img_0.png,enem-data/enem-2017/128-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A classificação biológica proposta por Whittaker permite distinguir cinco grandes linhas evolutivas utilizando, como critérios de classificação, a organização celular e o modo de nutrição. Woese e seus colaboradores, com base na comparação das sequências que codificam o RNA ribossômico dos seres vivos, estabeleceram relações de ancestralidade entre os grupos e concluíram que os procariontes do reino Monera não eram um grupo coeso do ponto de vista evolutivo.\nA diferença básica nas classificações citadas é que a mais recente se baseia fundamentalmente em",
+    "alternativas": {
+      "a": "tipos de células.",
+      "b": "aspectos ecológicos.",
+      "c": "relações filogenéticas.",
+      "d": "propriedades fisiológicas.",
+      "e": "características morfológicas."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/92-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglicerídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química:\nA função química presente no produto que representa o biodiesel é",
+    "alternativas": {
+      "a": "éter.",
+      "b": "éster.",
+      "c": "álcool.",
+      "d": "cetona.",
+      "e": "ácido carboxílico"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/96-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.\nQual modelo de cinto oferece menor risco de lesão interna ao motorista?",
+    "alternativas": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/93-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A figura mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: haleto metálico, tungstênio, mercúrio, xênon e LED (diodo emissor de luz). As áreas marcadas em cinza são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sensibilidade do olho humano aos diferentes comprimentos de onda. UV e IV são as regiões do ultravioleta e do infravermelho, respectivamente.\nUm arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não aqueça o ambiente.\nQual tipo de lâmpada melhor atende ao desejo do arquiteto?",
+    "alternativas": {
+      "a": "Haleto metálico.",
+      "b": "Tungstênio.",
+      "c": "Mercúrio.",
+      "d": "Xênon.",
+      "e": "LED"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/99-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.\nQual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?",
+    "alternativas": {
+      "a": "6",
+      "b": "18",
+      "c": "60",
+      "d": "90",
+      "e": "100"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/101-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\nNo processo eletrolítico ilustrado, o produto secundário obtido é o",
+    "alternativas": {
+      "a": "vapor de água.",
+      "b": "oxigênio molecular.",
+      "c": "hipoclorito de sódio.",
+      "d": "hidrogênio molecular.",
+      "e": "cloreto de hidrogênio."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/104-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A farinha de linhaça dourada é um produto natural que oferece grandes benefícios para o nosso organismo. A maior parte dos nutrientes da linhaça encontra-se no óleo desta semente, rico em substâncias lipossolúveis com massas moleculares elevadas. A farinha também apresenta altos teores de fibras proteicas insolúveis em água, celulose, vitaminas lipossolúveis e sais minerais hidrossolúveis.\nConsidere o esquema, que resume um processo de separação dos componentes principais da farinha de linhaça dourada.\nO óleo de linhaça será obtido na fração",
+    "alternativas": {
+      "a": "Destilado 1.",
+      "b": "Destilado 2.",
+      "c": "Resíduo 2.",
+      "d": "Resíduo 3.",
+      "e": "Resíduo 4."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/95-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.\n\n\n\n\n\n\n\n\n\n\n\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100g de ração.\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
+    "alternativas": {
+      "a": "O grupo que se contaminou somente com atrazina.",
+      "b": "O grupo que se contaminou somente com diazinon.",
+      "c": "Os grupos que se contaminaram com atrazina e malation.",
+      "d": "Os grupos que se contaminaram com diazinon e malation.",
+      "e": "Nenhum dos grupos contaminados com atrazina, diazinon e malation."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/106-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Visando explicar uma das propriedades da membrana plasmática, fusionou-se uma célula de camundongo com uma célula humana, formando uma célula híbrida. Em seguida, com o intuito de marcar as proteínas de membrana, dois anticorpos foram inseridos no experimento, um específico para as proteínas de membrana do camundongo e outro para as proteínas de membrana humana. Os anticorpos foram visualizados ao microscópio por meio de fluorescência de cores diferentes.\nA mudança observada da etapa 3 para a etapa 4 do experimento ocorre porque as proteínas",
+    "alternativas": {
+      "a": "movimentam-se livremente no plano da bicamada lipídica.",
+      "b": "permanecem confinadas em determinadas regiões da bicamada.",
+      "c": "auxiliam o deslocamento dos fosfolipídios da membrana plasmática.",
+      "d": "são mobilizadas em razão da inserção de anticorpos",
+      "e": "são bloqueadas pelos anticorpos."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/98-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.\nMesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está\ninstalada, pois o(a)",
+    "alternativas": {
+      "a": "planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.",
+      "b": "hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.",
+      "c": "conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.",
+      "d": "combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.",
+      "e": "planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/103-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Fusível é um dispositivo de proteção contra sobrecorrente em circuitos. Quando a corrente que passa por esse componente elétrico é maior que sua máxima corrente nominal, o fusível queima. Dessa forma, evita que a corrente elevada danifique os aparelhos do circuito. Suponha que o circuito elétrico mostrado seja alimentado por uma fonte de tensão U e que o fusível suporte uma corrente nominal de 500 mA.\nQual é o máximo valor da tensão U para que o fusível não queime?",
+    "alternativas": {
+      "a": "20 V",
+      "b": "40 V",
+      "c": "60 V",
+      "d": "120 V",
+      "e": "185 V"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/111-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da interferência de ondas sonoras. Uma fonte emite ondas sonoras de determinada frequência na entrada do dispositivo. Essas ondas se dividem pelos dois caminhos (ADC e AEC) e se encontram no ponto C, a saída do dispositivo, onde se posiciona um detector. O trajeto ADC pode ser aumentado pelo deslocamento dessa parte do dispositivo. Com o trajeto ADC igual ao AEC, capta-se um som muito intenso na saída. Entretanto, aumentando-se gradativa mente o trajeto ADC, até que ele fique como mostrado na figura, a intensidade do som na saída fica praticamente nula. Desta forma, conhecida a velocidade do som no interior do tubo (320 m/s), é possível determinar o valor da frequência do som produzido pela fonte.\nO valor da frequência, em hertz, do som produzido pela fonte sonora é",
+    "alternativas": {
+      "a": "3200",
+      "b": "1600",
+      "c": "800",
+      "d": "640",
+      "e": "400"
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/113-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros semicondutores, têm sido desenvolvidos para monitorar a concentração de amônia (gás tóxico e incolor) em granjas avícolas. A polianilina é um polímero semicondutor que tem o valor de sua resistência elétrica nominal quadruplicado quando exposta a altas concentrações de amônia. Na ausência de amônia, a polianilina se comporta como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico.\nO valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é igual a",
+    "alternativas": {
+      "a": "0,5 x 100",
+      "b": "2,0 x 100",
+      "c": "2,5 x 105",
+      "d": "5,0 x 105",
+      "e": "2,0 x 106"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/108-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:\n\n\n\n\n\n\n\n\n\n\n\n\nApós a síntese, o AAS é purificado e o rendimento flnal é de aproximadamente 50%. Devido às suas propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.\nUma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?",
+    "alternativas": {
+      "a": "293",
+      "b": "345",
+      "c": "414",
+      "d": "690",
+      "e": "828"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/114-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão do uso de materiais de modo a minimizar os impactos causados no local. Entre esses materiais está o chamado concregrama ou pisograma, que é um tipo de revestimento composto por peças de concreto com áreas vazadas, preenchidas com solo gramado. As figuras apresentam essas duas formas de piso feitos de concreto.\nA utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a",
+    "alternativas": {
+      "a": "impermeabilização.",
+      "b": "diminuição da temperatura.",
+      "c": "acumulação de matéria orgânica.",
+      "d": "alteração do pH.",
+      "e": "salinização."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/119-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A epilação a laser (popularmente conhecida como depilação a laser) consiste na aplicação de uma fonte de luz para aquecer e causar uma lesão localizada e controlada nos folículos capilares. Para evitar que outros tecidos sejam danificados, selecionam-se comprimentos de onda que são absorvidos pela melanina presente nos pelos, mas que não afetam a oxi-hemoglobina do sangue e a água dos tecidos da região em que o tratamento será aplicado. A figura mostra como é a absorção de diferentes comprimentos de onda pela melanina, oxi-hemoglobina e água.\nQual é o comprimento de onda, em nm, ideal para a epilação a laser?",
+    "alternativas": {
+      "a": "400",
+      "b": "700",
+      "c": "1100",
+      "d": "900",
+      "e": "500"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/123-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKa = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKa = -log Ka, em que Ka é a constante ácida da reação de ionização do lapachol.\nQual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?",
+    "alternativas": {
+      "a": "Solução de Na2CO3 para formar um sal de lapachol.",
+      "b": "Solução-tampão ácido acético/acetato de sódio (pH = 4,5).",
+      "c": "Solução de NaCI a fim de aumentar a força iônica do meio.",
+      "d": "Solução de Na2SO4 para formar um par iônico com lapachol.",
+      "e": "Solução de HCI a fim de extraí-lo por meio de reação ácido-base."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/120-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "No manual fornecido pelo fabricante de uma ducha elétrica de 220V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6500 W.\nConsidere o calor específico da água igual a 4200 J/(kg C) e a densidade da água igual a 1 kg/L.\nCom base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?",
+    "alternativas": {
+      "a": "1/3.",
+      "b": "1/5.",
+      "c": "3/5.",
+      "d": "3/8.",
+      "e": "5/8."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/134-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a construção de lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e fluorescentes. Em um experimento de laboratório, pretende-se associar duas pilhas em série para acender um LED azul que requer 3,6 volts para o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro.\nQual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?",
+    "alternativas": {
+      "a": "enem-data/enem-2017/117-images/alt_img_0.png",
+      "b": "enem-data/enem-2017/117-images/alt_img_1.png",
+      "c": "enem-data/enem-2017/117-images/alt_img_2.png",
+      "d": "enem-data/enem-2017/117-images/alt_img_3.png",
+      "e": "enem-data/enem-2017/117-images/alt_img_4.png"
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/117-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "TEXTO I\nCriatividade em publicidade: teorias e reflexões\nResumo: O presente artigo aborda uma questão primordial na publicidade: a criatividade. Apesar de aclamada pelos departamentos de Criação das agências, devemos ter a consciência de que nem todo anúncio é, de fato, criativo. A partir do resgate teórico, no qual os Conceitos são tratados à luz da publicidade, busca-se estabelecer a compreensão dos temas. Para elucidar tais questões, é analisada uma campanha impressa da marca XXXX. As reflexões apontam que a publicidade criativa é essencialmente simples e apresenta uma releitura do cotidiano.\n\nDepexe, S D. Travessias: Pesquisas em Educação, Cultura, Linguagem e Artes, n. 2, 2008.\nOs dois textos apresentados versam sobre o tema Criatividade. O Texto I é um resumo de Caráter Científico e o Texto II, uma homenagem promovida por um site de publicidade. De que maneira O Texto II exemplifica o conceito de criatividade em publicidade apresentado no Texto I?",
+    "alternativas": {
+      "a": "Fazendo menção ao difícil trabalho das mães em criar seus filhos.",
+      "b": "Promovendo uma leitura simplista do papel materno em seu trabalho de criar os filhos.",
+      "c": "Explorando a polissemia do termo “criação”.",
+      "d": "Recorrendo a uma estrutura linguística simples.",
+      "e": "Utilizando recursos gráficos diversificados."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/6-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Reader’s Digest, set. 1993.\nNesse texto publicitário são utilizados recursos verbais e não verbais para transmitir a mensagem. Ao associar os termos anyplace e regret à imagem do texto, constata-se que o tema da propaganda é a importância da",
+    "alternativas": {
+      "a": "preservação do meio ambiente.",
+      "b": "manutenção do motor.",
+      "c": "escolha da empresa certa.",
+      "d": "consistência do produto.",
+      "e": "conservação do carro."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/4-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nO consumidor do século XXI, chamado de novo consumidor social, tende a se comportar de modo diferente do consumidor tradicional. Pela associação das características apresentadas no diagrama, infere-se que esse novo consumidor sofre influência da",
+    "alternativas": {
+      "a": "cultura do comércio eletrônico.",
+      "b": "busca constante pelo menor preço.",
+      "c": "divulgação de informações pelas empresas.",
+      "d": "necessidade recorrente de consumo.",
+      "e": "postura comum aos consumidores tradicionais."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/17-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Revista Bolsa, 1986. In: CARRASCOZA, J. A. A evolução do texto publicitário: a associação de palavras como elemento de sedução na publicidade. São Paulo: Futura, 1999 (adaptado).\nNesse cartaz publicitário de uma empresa de papel e celulose, a combinação dos elementos verbais e não verbais visa",
+    "alternativas": {
+      "a": "justificar os prejuízos ao meio ambiente, ao vincular a empresa à difusão da cultura.",
+      "b": "incentivar a leitura de obras literárias, ao referir-se a títulos consagrados do acervo mundial.",
+      "c": "seduzir o consumidor, ao relacionar o anunciante às histórias clássicas da literatura universal.",
+      "d": "promover uma reflexão sobre a preservação ambiental ao aliar o desmatamento aos clássicos da literatura.",
+      "e": "construir uma imagem positiva do anunciante, ao associar a exploração alegadamente sustentável à produção de livros."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/28-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nCampanhas publicitárias podem evidenciar problemas sociais. O Cartaz tem como finalidade",
+    "alternativas": {
+      "a": "alertar os homens agressores sobre as consequências de seus atos,",
+      "b": "Conscientizar a população sobre a necessidade de denunciar a violência doméstica.",
+      "c": "instruir as mulheres sobre o que fazer em casos de agressão.",
+      "d": "despertar nas crianças a capacidade de reconhecer atos de violência doméstica.",
+      "e": "exigir das autoridades ações preventivas contra a Violência doméstica."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/35-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nA instalação Dengo transformou a sala do MAM-SP em um ambiente singular, explorando como principal característica artística a",
+    "alternativas": {
+      "a": "participação do público na interação lúdica com a obra.",
+      "b": "distribuição de obstáculos no espaço da exposição.",
+      "c": "representação simbólica de objetos oníricos.",
+      "d": "interpretação subjetiva da lei da gravidade",
+      "e": "valorização de técnicas de artesanato."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/31-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "TEXTO II\nSpeto\nPaulo César Silva, mais conhecido como Speto, é um grafiteiro paulista envolvido com o skate e a música. O fortalecimento de sua arte ocorreu, em 1999, pela oportunidade de ver de perto as referências que trazia há tempos, ao passar por diversas cidades do Norte do Brasil em uma turnê com a banda O Rappa\n\nRevista Zupi, n. 19, 2010\nO grafite do artista paulista Speto, exposto no Museu Afro Brasil, revela elementos da cultura brasileira reconhecidos",
+    "alternativas": {
+      "a": "na influência da expressão abstrata.",
+      "b": "na representação de lendas nacionais.",
+      "c": "na inspiração das composições musicais.",
+      "d": "nos traços marcados pela xilogravura nordestina.",
+      "e": "nos usos característicos de grafismos dos skates."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/30-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "TEXTO II\n\n\n\nNo verão de 1954, o artista Robert Rauschenberg (n.1925) criou o termo combine para se referir a suas novas obras que possuíam aspectos tanto da pintura como da escultura. \nEm 1958, Cama foi selecionada para ser incluída em uma exposição de jovens artistas americanos e  italianos no Festival dos dois Mundos em Spoleto, na Itália. Os responsáveis pelo festival, entretanto, se recusaram a expor a obra e a removeram para um depósito.\n Embora o mundo da arte debatesse a inovação de se pendurar uma cama numa parede, Rauschenberg considerava sua obra “um dos quadros mais acolhedores que já pintei, mas sempre tive medo de que alguém quisesse se enfiar nela”.\n\nDEMPSEY, A. Estilos, escolas e movimentos: guia enciclopédico da arte moderna.\nSão Paulo: Cosac e Naify, 2003.\nA obra de Rauschenberg chocou o público na época em que foi feita, e recebeu forte influência de um movimento artístico que se caracterizava pela",
+    "alternativas": {
+      "a": "dissolução das tonalidades e dos contornos, revelando uma produção rápida.",
+      "b": "exploração insólita de elementos do cotidiano, dialogando com os ready-mades.",
+      "c": "repetição exaustiva de elementos visuais, levando à simplificação máxima da composição.",
+      "d": "incorporação das transformações tecnológicas, valorizando o dinamismo da vida moderna.",
+      "e": "geometrização das formas, diluindo os detalhes sem se preocupar com a fidelidade ao real."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/39-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nOs textos publicitários são produzidos para cumprir determinadas funções comunicativas. Os objetivos desse cartaz estão voltados para a conscientização dos brasileiros sobre a necessidade de",
+    "alternativas": {
+      "a": "as crianças frequentarem a escola regularmente.",
+      "b": "a formação leitora começar na infância.",
+      "c": "a alfabetização acontecer na idade certa.",
+      "d": "a literatura ter o seu mercado consumidor ampliado.",
+      "e": "as escolas desenvolverem campanhas a favor da leitura."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/43-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nA obra de Rubem Valentim apresenta emblemas que, baseando-se em signos de religiões afro-brasileiras, se transformam em produção artística. A obra Emblema 78 relaciona-se com o Modernismo em virtude da",
+    "alternativas": {
+      "a": "simplificação de formas da paisagem brasileira.",
+      "b": "valorização de símbolos do processo de urbanização.",
+      "c": "fusão de elementos da cultura brasileira com a arte europeia.",
+      "d": "alusão aos símbolos cívicos presentes na bandeira nacional",
+      "e": "composição simétrica de elementos relativos à miscigenação racial."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/45-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "TEXTO II\nNa sua produção, Goeldi buscou refletir seu caminho  pessoal e político, sua melancolia e paixão sobre os intensos aspectos mais latentes em sua obra, como: cidades, peixes, urubus, caveiras, abandono, solidão, drama e medo.\n\nZULIETTI, L. F. Goeldi: da melancolia ao inevitável. Revista de Arte, Mídia e Política. Acesso em: 24 abr. 2017 (adaptado).\nO gravador Oswaldo Goeldi recebeu influências de  um movimento artístico europeu do início do século XX, que apresenta as características reveladas nos traços da obra de",
+    "alternativas": {
+      "a": "enem-data/enem-2017/24-images/alt_img_0.png",
+      "b": "enem-data/enem-2017/24-images/alt_img_1.png",
+      "c": "enem-data/enem-2017/24-images/alt_img_2.png",
+      "d": "enem-data/enem-2017/24-images/alt_img_3.png",
+      "e": "enem-data/enem-2017/24-images/alt_img_4.png"
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/24-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "As letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.\nA empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.\nA opção que mais se adequa às condições da empresa é",
+    "alternativas": {
+      "a": "I.",
+      "b": "II.",
+      "c": "III.",
+      "d": "IV.",
+      "e": "V."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/140-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.\nQuantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?",
+    "alternativas": {
+      "a": "4.",
+      "b": "3.",
+      "c": "2.",
+      "d": "1.",
+      "e": "0."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/136-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo X com a sua superfície, conforme indica a figura.\nEm determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k . sen(x)\nsendo k uma constante, e supondo-se que X está entre 0° e 90º.\nQuando x = 30º, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
+    "alternativas": {
+      "a": "33%",
+      "b": "50%",
+      "c": "57%",
+      "d": "70%",
+      "e": "86%"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/146-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 cm e 5 cm, respectivamente.\nA bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a",
+    "alternativas": {
+      "a": "192.",
+      "b": "300.",
+      "c": "304.",
+      "d": "320.",
+      "e": "400."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/137-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nSe a quantidade de jogadores for 8, quantas partidas serão realizadas?",
+    "alternativas": {
+      "a": "64",
+      "b": "56",
+      "c": "49",
+      "d": "36",
+      "e": "28"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/141-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.\n\n\n\n\n\n\n\n\n\n\nNo setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.\nCom base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?",
+    "alternativas": {
+      "a": "C6,4",
+      "b": "C9,3",
+      "c": "C10,4",
+      "d": "64",
+      "e": "46"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/149-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia, conforme Figura 1. A estrutura de sustentação de cada uma dessas cabanas está representada na Figura 2. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza\nA forma geométrica da superfície cujas arestas estão representadas na Figura 2 é",
+    "alternativas": {
+      "a": "tetraedro.",
+      "b": "pirâmide retangular.",
+      "c": "tronco de pirâmide retangular.",
+      "d": "prisma quadrangular reto.",
+      "e": "prisma triangular reto."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/154-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula\n\n\n\n\n\n\n\n\n\n\n\n\nSe necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335.\nDe acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é",
+    "alternativas": {
+      "a": "12",
+      "b": "14",
+      "c": "15",
+      "d": "16",
+      "e": "17"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/145-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:\n\n\n\n\n\n\n\n\n\n\nQuanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.\n\n\n\nDeterminado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.\nPara que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é",
+    "alternativas": {
+      "a": "7,00.",
+      "b": "7,38.",
+      "c": "7,50.",
+      "d": "8,25.",
+      "e": "9,00."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/148-images/context_img_0.png,enem-data/enem-2017/148-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.\n\n\n\nPor um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45° com a linha do horizonte.\n\n\n\n\n\n\n\n\n\n\nPara recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360°\nA forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de",
+    "alternativas": {
+      "a": "90° no sentido horário.",
+      "b": "135° no sentido horário.",
+      "c": "180° no sentido anti-horário.",
+      "d": "270° no sentido anti-horário",
+      "e": "315° no sentido horário."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/147-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linhas. Nele, a profundidade h, registrada às 13 horas, não foi anotada e, a partir de h, cada unidade sobre o eixo vertical representa um metro.\n\n\n\n\n\n\n\n\n\n\nFoi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10%.\nÀs 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?",
+    "alternativas": {
+      "a": "18.",
+      "b": "20.",
+      "c": "24.",
+      "d": "36.",
+      "e": "40."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/153-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\n\n\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\n\n\nOs dados sobre as pesquisas são os seguintes:\n\n\n\n\n\n\n\n\n\n\nem que σ é um parâmetro e N é o número de pessoas\nentrevistadas pela pesquisa.\nQual pesquisa deverá ser utilizada?",
+    "alternativas": {
+      "a": "P1.",
+      "b": "P2.",
+      "c": "P3.",
+      "d": "P4.",
+      "e": "P5."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/151-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A figura ilustra uma partida de Campo Minado, o jogo presente em praticamente todo computador pessoal. Quatro quadrados em um tabuleiro 16 x 16 foram abertos, e os números em suas faces indicam quantos dos seus 8 vizinhos contêm minas (a serem evitadas). O número 40 no canto inferior direito é o número total de minas no tabuleiro, cujas posições foram escolhidas ao acaso, de forma uniforme, antes de se abrir qualquer quadrado.\n\n\n\n\n\n\n\n\n\n\nEm sua próxima jogada, o jogador deve escolher dentre os quadrados marcados com as letras P, Q, R, S e T um para abrir, sendo que deve escolher aquele com a menor probabilidade de conter uma mina.\nO jogador deverá abrir o quadrado marcado com a letra",
+    "alternativas": {
+      "a": "P.",
+      "b": "Q.",
+      "c": "R.",
+      "d": "S.",
+      "e": "T."
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/155-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "O acesso aos elevadores tem os seguintes custos:\n• Subir pelo elevador 1: R$ 0,15;\n• Subir pelo elevador 2: R$ 1,80;\n• Descer pelo elevador 1: R$ 0,10;\n• Descer pelo elevador 2: R$ 2,30.\nO custo da passagem do teleférico partindo do topo do mirante 1 para o topo do mirante 2 é de R$ 2,00, e do topo do mirante 2 para o topo do mirante 1 é de R$ 2,50.\nQual é o menor custo, em real, para uma pessoa visitar os topos dos dois mirantes e retornar ao solo?",
+    "alternativas": {
+      "a": "2,25",
+      "b": "3,90",
+      "c": "4,35",
+      "d": "4,40",
+      "e": "4,45"
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/161-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado nesse curso, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova.\nCom base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)",
+    "alternativas": {
+      "a": "apenas o aluno Y",
+      "b": "apenas o aluno Z",
+      "c": "apenas os alunos x e y",
+      "d": "apenas os alunos x e z",
+      "e": "os alunos x, y, z"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/159-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Um menino acaba de se mudar para um novo bairro e deseja ir à padaria. Pediu ajuda a um amigo que lhe forneceu um mapa com pontos numerados, que representam cinco locais de interesse, entre os quais está a padaria. Além disso, o amigo passou as seguintes instruções: a partir do ponto em que você se encontra, representado pela letra X, ande para oeste, vire à direita na primeira rua que encontrar, siga em frente e vire à esquerda na próxima rua. A padaria estará logo a seguir\nA padaria está representada pelo ponto numerado com",
+    "alternativas": {
+      "a": "1.",
+      "b": "2.",
+      "c": "3.",
+      "d": "4.",
+      "e": "5."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/158-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.\nQuais devem ser os valores de X e de Y, em metro, para que a área da base do viveiro seja máxima?",
+    "alternativas": {
+      "a": "1 e 49",
+      "b": "1 e 99",
+      "c": "10 e 10",
+      "d": "25 E 25",
+      "e": "50 E 50"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/168-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Uma pessoa ganhou uma pulseira formada por pérolas esféricas, na qual faltava uma das pérolas. A figura indica a posição em que estaria faltando esta pérola.\n\n\n\n\n\n\n\n\n\n\nEla levou a jóia a um joalheiro que verificou que a medida do diâmetro dessas pérolas era 4 milímetros. Em seu estoque, as pérolas do mesmo tipo e formato, disponíveis para reposição, tinham diâmetros iguais a: 4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.\n\n\n\nO joalheiro então colocou na pulseira a pérola cujo diâmetro era o mais próximo do diâmetro das pérolas originais.\nA pérola colocada na pulseira pelo joalheiro tem diâmetro, em milímetro, igual a",
+    "alternativas": {
+      "a": "3,099.",
+      "b": "3,970.",
+      "c": "4,025.",
+      "d": "4,080.",
+      "e": "4,100."
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/164-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A manchete demonstra que o transporte de grandes cargas representa cada vez mais preocupação quando feito em vias urbanas.\n\n\n\nCaminhão entala em viaduto no Centro\n\n\n\nUm caminhão de grande porte entalou embaixo do viaduto no cruzamento das avenidas Borges de Medeiros e Loureiro da Silva no sentido Centro-Bairro, próximo à Ponte de Pedra, na capital. Esse veículo vinha de São Paulo para Porto Alegre e transportava três grandes tubos, conforme ilustrado na foto.\n\n\n\n\n\n\n\n\n\n\nConsidere que o raio externo de cada cano da imagem seja 0,60 m e que eles estejam em cima de uma carroceria cuja parte superior está a 1,30 m do solo. O desenho representa a vista traseira do empilhamento dos canos.\n\n\n\n\n\n\n\n\n\n\nA margem de segurança recomendada para que um veículo passe sob um viaduto é que a altura total do veículo com a carga seja, no mínimo, 0,50 m menor do que a altura do vão do viaduto.\n\n\n\nConsidere 1,7 como aproximação para (3)1/2\nQual deveria ser a altura mínima do viaduto, em metro, para que esse caminhão pudesse passar com segurança sob seu vão?",
+    "alternativas": {
+      "a": "2,82.",
+      "b": "3,52.",
+      "c": "3,70.",
+      "d": "4,02.",
+      "e": "4,20."
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/157-images/context_img_0.png,enem-data/enem-2017/157-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).\nA mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
+    "alternativas": {
+      "a": "8,1%",
+      "b": "8,0%",
+      "c": "7,9%",
+      "d": "7,7%",
+      "e": "7,6%"
+    },
+    "gabarito": "b",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/170-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Uma desenhista projetista deverá desenhar uma tampa de panela em forma circular. Para realizar esse desenho, ela dispõe, no momento, de apenas um compasso, cujo comprimento das hastes é de 10 cm, um transferidor e uma folha de papel com um plano cartesiano. Para esboçar o desenho dessa tampa, ela afastou as hastes do compasso de forma que o ângulo formado por elas fosse de 120o. A ponta seca está representada pelo ponto C, a ponta do grafite está representada pelo ponto B e a cabeça do compasso está representada pelo ponto A conforme a figura.\n\n\n\n\n\n\n\n\n\n\nApós concluir o desenho, ela o encaminha para o setor de produção. Ao receber o desenho com a indicação do raio da tampa, verificará em qual intervalo este se encontra e decidirá o tipo de material a ser utilizado na sua fabricação, de acordo com os dados.\nO tipo de material a ser utilizado pelo setor de produção será",
+    "alternativas": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/163-images/context_img_0.png,enem-data/enem-2017/163-images/context_img_1.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o slogan “Juntos num só ritmo”, com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes.\nDe quantas maneiras diferentes o comitê organizador da Copa poderia pintar a logomarca com as cores citadas?",
+    "alternativas": {
+      "a": "15",
+      "b": "30",
+      "c": "108",
+      "d": "360",
+      "e": "972"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/167-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Neste modelo de termômetro, os filetes na cor preta registram as temperaturas mínima e máxima do dia anterior e os filetes na cor cinza registram a temperatura ambiente atual, ou seja, no momento da leitura do termômetro.\n\n\n\n\n\n\n\n\n\n\n\n\nPor isso ele tem duas colunas. Na da esquerda, os números estão em ordem crescente, de cima para baixo, de -30 °C até 50 °C. Na coluna da direita, os números estão ordenados de forma crescente, de baixo para cima, de -30 °C até 50 °C.\nA leitura é feita da seguinte maneira:\n• a temperatura mínima é indicada pelo nível inferior do filete preto na coluna da esquerda;\n• a temperatura máxima é indicada pelo nível inferior do filete preto na coluna da direita;\n• a temperatura atual é indicada pelo nível superior dos filetes cinza nas duas colunas.\n\nDisponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\nQual é a temperatura máxima mais aproximada registrada nesse termômetro?",
+    "alternativas": {
+      "a": "5 °C",
+      "b": "7 °C",
+      "c": "13 °C",
+      "d": "15 °C",
+      "e": "19 °C"
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/174-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nQual a medida da altura H, em metro, indicada na Figura 2?",
+    "alternativas": {
+      "a": "16/3",
+      "b": "31/5",
+      "c": "25/4",
+      "d": "25/3",
+      "e": "75/2"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/176-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Um pivô de três torres (T1, T2 e T3) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T1 são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.\nPara atingir seu objetivo, as velocidades das torres T1, T2 e T3 devem ser, em metro por hora, de",
+    "alternativas": {
+      "a": "12, 24 e 36.",
+      "b": "6, 12 e 18.",
+      "c": "2, 4 e 6.",
+      "d": "300, 1200 e 2700.",
+      "e": "600, 2400 e 5400."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/175-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nAnalisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, foi no site",
+    "alternativas": {
+      "a": "X.",
+      "b": "Y.",
+      "c": "Z.",
+      "d": "W.",
+      "e": "U."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/177-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nO número de horas em que os dois reservatórios contêm a mesma quantidade de água é",
+    "alternativas": {
+      "a": "1.",
+      "b": "2.",
+      "c": "4.",
+      "d": "5.",
+      "e": "6."
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/173-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Uma bicicleta do tipo mountain bike tem uma coroa com 3 engrenagens e uma catraca com 6 engrenagens, que, combinadas entre si, determinam 18 marchas (número de engrenagens da coroa vezes o número de engrenagens da catraca).\n\n\n\n\n\n\n\n\n\n\nOs números de dentes das engrenagens das coroas e das catracas dessa bicicleta estão listados no quadro.\n\n\n\n\n\n\n\n\n\n\nSabe-se que o número de voltas efetuadas pela roda traseira a cada pedalada é calculado dividindo-se a quantidade de dentes da coroa pela quantidade de dentes da catraca.\nDurante um passeio em uma bicicleta desse tipo, deseja-se fazer um percurso o mais devagar possível, escolhendo, para isso, uma das seguintes combinações de engrenagens (coroa x catraca):\nA combinação escolhida para realizar esse passeio da forma desejada é",
+    "alternativas": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/166-images/context_img_0.png,enem-data/enem-2017/166-images/context_img_1.png,enem-data/enem-2017/166-images/context_img_2.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nA função P(t) obtida, por este cientista, ao analisar o caso específico foi",
+    "alternativas": {
+      "a": "P(t) = 99 + 21cos(3πt)",
+      "b": "P(t) = 78 + 42cos(3πt)",
+      "c": "P(t) = 99 + 21cos(2πt)",
+      "d": "P(t) = 99 + 21cos(t)",
+      "e": "P(t) = 78 + 42cos(t)"
+    },
+    "gabarito": "a",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/179-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "\nPara atingir todos os seus objetivos, o chefe deverá cortar a calota do melão numa altura h, em centímetro, igual a",
+    "alternativas": {
+      "a": "5 - √91/2",
+      "b": "10 - √91",
+      "c": "1",
+      "d": "4",
+      "e": "5"
+    },
+    "gabarito": "c",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/180-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.\n\n\n\n\n\n\n\n\n\n\nA água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.\nQual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água no sistema?",
+    "alternativas": {
+      "a": "enem-data/enem-2017/156-images/alt_img_0.png",
+      "b": "enem-data/enem-2017/156-images/alt_img_1.png",
+      "c": "enem-data/enem-2017/156-images/alt_img_2.png",
+      "d": "enem-data/enem-2017/156-images/alt_img_3.png",
+      "e": "enem-data/enem-2017/156-images/alt_img_4.png"
+    },
+    "gabarito": "d",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/156-images/context_img_0.png"
+    ]
+  },
+  {
+    "ano": 2017,
+    "materia": "Desconhecida",
+    "questao": "Ao ser divulgado esse resultado em jornal, o Gráfico 1 foi cortado durante a diagramação, como mostra o Gráfico 2.\n\n\n\n\n\n\n\n\n\n\nApesar de os valores apresentados estarem corretos e a largura das colunas ser a mesma, muitos leitores criticaram o formato do Gráfico 2 impresso no jornal, alegando que houve prejuízo visual para o candidato B.\nA diferença entre as razões da altura da coluna B pela coluna A nos gráficos 1 e 2 é",
+    "alternativas": {
+      "a": "0.",
+      "b": "1/2.",
+      "c": "1/5.",
+      "d": "2/15.",
+      "e": "8/35."
+    },
+    "gabarito": "e",
+    "imagens": [
+      "https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem-data/enem-2017/2017-images/enem-data/enem-2017/178-images/context_img_0.png,enem-data/enem-2017/178-images/context_img_1.png"
+    ]
+  }
+]
