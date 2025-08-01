@@ -45,7 +45,7 @@ export default function Home() {
   const handleAnswer = (answer: string) => {
     setSelectedAnswer(answer)
     setTimeout(() => {
-      setUserAnswers([...userAnswers, answer])
+      setUserAnswers((prev) => [...prev, answer])
       setSelectedAnswer(null)
       if (currentQuestionIndex + 1 < questoes.length) {
         setCurrentQuestionIndex(currentQuestionIndex + 1)
@@ -78,7 +78,7 @@ export default function Home() {
         <>
           <ProgressBar current={currentQuestionIndex + 1} total={questoes.length} />
           <QuestionCard
-            question={questoes[currentQuestionIndex]} {/* Alterado de questao para question */}
+            question={questoes[currentQuestionIndex]}
             selected={selectedAnswer}
             onAnswer={handleAnswer}
           />
