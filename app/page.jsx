@@ -1,86 +1,96 @@
-'use client';
 
-import { useState, useEffect } from 'react';
-import QuestionCard from '../components/QuestionCard';
-import ProgressBar from '../components/ProgressBar';
-import ResultModal from '../components/ResultModal';
+'use client'
+
+import { useEffect, useState } from 'react'
+import QuestionCard from '../components/QuestionCard'
+import ProgressBar from '../components/ProgressBar'
+import ResultModal from '../components/ResultModal'
+import { carregarQuestoesAleatorias } from '../fetchQuestoes'
+
+type Questao = {
+  ano: number
+  materia: string
+  numero: number
+  questao: string
+  alternativas: {
+    a: string
+    b: string
+    c: string
+    d: string
+    e: string
+  }
+  correta: string
+  imagens?: string[]
+}
 
 export default function Home() {
-  const [questions, setQuestions] = useState([]);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [userAnswers, setUserAnswers] = useState([]);
-  const [showModal, setShowModal] = useState(false);
-  const [quizStarted, setQuizStarted] = useState(false);
+  const [questoes, setQuestoes] = useState<Questao[]>([])
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
+  const [userAnswers, setUserAnswers] = useState<string[]>([])
+  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
+  const [showModal, setShowModal] = useState(false)
+  const [quizStarted, setQuizStarted] = useState(false)
 
   useEffect(() => {
-    async function fetchQuestions() {
-      const response = await fetch("https://raw.githubusercontent.com/gabriel-antonelli/extract-enem-data/main/enem_2023.json");
-      const data = await response.json();
-      const shuffled = data.sort(() => 0.5 - Math.random()).slice(0, 15);
-      setQuestions(shuffled);
-    }
-
-    if (quizStarted && questions.length === 0) {
-      fetchQuestions();
-    }
-  }, [quizStarted]);
-
-  const handleAnswer = (answer) => {
-    setSelectedAnswer(answer);
-    setTimeout(() => {
-      setUserAnswers([...userAnswers, answer]);
-      setSelectedAnswer(null);
-      if (currentQuestionIndex + 1 < questions.length) {
-        setCurrentQuestionIndex(currentQuestionIndex + 1);
-      } else {
-        setShowModal(true);
+    const carregar = async () => {
+      try {
+        const data = await carregarQuestoesAleatorias()
+        setQuestoes(data)
+      } catch (error) {
+        console.error('Erro ao carregar questões:', error)
       }
-    }, 300);
-  };
+    }
+    carregar()
+  }, [])
+
+  const handleAnswer = (answer: string) => {
+    setSelectedAnswer(answer)
+    setTimeout(() => {
+      setUserAnswers([...userAnswers, answer])
+      setSelectedAnswer(null)
+      if (currentQuestionIndex + 1 < questoes.length) {
+        setCurrentQuestionIndex(currentQuestionIndex + 1)
+      } else {
+        setShowModal(true)
+      }
+    }, 500)
+  }
 
   const restartQuiz = () => {
-    setCurrentQuestionIndex(0);
-    setSelectedAnswer(null);
-    setUserAnswers([]);
-    setShowModal(false);
-    setQuestions([]);
-    setQuizStarted(false);
-  };
+    setCurrentQuestionIndex(0)
+    setUserAnswers([])
+    setShowModal(false)
+    setQuizStarted(false)
+  }
 
   return (
-    <main className="max-w-3xl mx-auto p-4">
+    <div className="min-h-screen bg-gray-100 p-4">
+      <h1 className="text-2xl font-bold mb-4">Simulado ENEM com Imagens</h1>
       {!quizStarted ? (
-        <div className="text-center mt-10">
-          <h1 className="text-2xl font-bold mb-4">Simulado ENEM com Imagens</h1>
-          <button
-            onClick={() => setQuizStarted(true)}
-            className="bg-blue-600 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition-all"
-          >
-            Iniciar simulado
-          </button>
-        </div>
-      ) : questions.length > 0 ? (
+        <button
+          className="bg-blue-500 text-white px-4 py-2 rounded"
+          onClick={() => setQuizStarted(true)}
+        >
+          Iniciar simulado
+        </button>
+      ) : questoes.length === 0 ? (
+        <p>Carregando questões...</p>
+      ) : (
         <>
-          <ProgressBar
-            current={currentQuestionIndex + 1}
-            total={questions.length}
-          />
+          <ProgressBar current={currentQuestionIndex + 1} total={questoes.length} />
           <QuestionCard
-            question={questions[currentQuestionIndex]}
+            questao={questoes[currentQuestionIndex]}
             selected={selectedAnswer}
             onAnswer={handleAnswer}
           />
-          <ResultModal
-            show={showModal}
-            questions={questions}
-            userAnswers={userAnswers}
-            onRestart={restartQuiz}
-          />
         </>
-      ) : (
-        <p className="text-center mt-10">Carregando questões...</p>
       )}
-    </main>
-  );
+      <ResultModal
+        show={showModal}
+        questoes={questoes}
+        respostas={userAnswers}
+        onRestart={restartQuiz}
+      />
+    </div>
+  )
 }
