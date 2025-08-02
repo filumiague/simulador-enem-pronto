@@ -1,85 +1,72 @@
-'use client'
+'use client';
 
-import { useEffect, useState } from 'react'
-import QuestionCard from '../components/QuestionCard'
-import ProgressBar from '../components/ProgressBar'
-import ResultModal from '../components/ResultModal'
-import { carregarQuestoesAleatorias } from '../fetchQuestoes'
+import { useState, useEffect } from 'react';
 
-export default function Home() {
-  const [questoes, setQuestoes] = useState([])
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
-  const [userAnswers, setUserAnswers] = useState([])
-  const [selectedAnswer, setSelectedAnswer] = useState(null)
-  const [showModal, setShowModal] = useState(false)
-  const [quizStarted, setQuizStarted] = useState(false)
+export default function Page() {
+  const [questions, setQuestions] = useState([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [showAnswers, setShowAnswers] = useState(false);
 
   useEffect(() => {
-    const carregar = async () => {
-      try {
-        const data = await carregarQuestoesAleatorias()
-        setQuestoes(data)
-      } catch (error) {
-        console.error('Erro ao carregar questões:', error)
-      }
+    fetch('/json-questoes-enem/questoes_unificadas.json')
+      .then((res) => res.json())
+      .then((data) => setQuestions(data.filter(q => q.img && q.img.includes('http'))));
+  }, []);
+
+  const handleAnswerClick = () => {
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    } else {
+      setShowAnswers(true);
     }
-    carregar()
-  }, [])
+  };
 
-  const handleAnswer = (answer) => {
-    setSelectedAnswer(answer)
-    setTimeout(() => {
-      setUserAnswers((prev) => [...prev, answer])
-      setSelectedAnswer(null)
-      if (currentQuestionIndex + 1 < questoes.length) {
-        setCurrentQuestionIndex(currentQuestionIndex + 1)
-      } else {
-        setShowModal(true)
-      }
-    }, 500)
+  if (questions.length === 0) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-blue-100 text-blue-800 font-semibold">
+        Carregando questões...
+      </div>
+    );
   }
 
-  const restartQuiz = () => {
-    setCurrentQuestionIndex(0)
-    setUserAnswers([])
-    setShowModal(false)
-    setQuizStarted(false)
-  }
+  const currentQuestion = questions[currentQuestionIndex];
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-slate-900 to-slate-800 text-white px-4 py-6">
-      <div className="w-full max-w-3xl">
-        <h1 className="text-3xl font-bold text-center mb-6">Simulado ENEM com Imagens</h1>
+    <div className="min-h-screen bg-blue-50 text-gray-800 p-6">
+      <div className="max-w-3xl mx-auto shadow-xl rounded-2xl p-8 bg-white">
+        <h1 className="text-3xl font-bold text-blue-700 mb-6 text-center animate-fade-in">
+          Simulado ENEM com Imagens
+        </h1>
 
-        {!quizStarted ? (
-          <div className="text-center">
-            <button
-              onClick={() => setQuizStarted(true)}
-              className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md shadow-lg transition-all"
-            >
-              Iniciar Simulado
-            </button>
-          </div>
-        ) : questoes.length === 0 ? (
-          <p className="text-center">Carregando questões...</p>
-        ) : (
-          <>
-            <ProgressBar current={currentQuestionIndex + 1} total={questoes.length} />
-            <QuestionCard
-              questao={questoes[currentQuestionIndex]}
-              selected={selectedAnswer}
-              onAnswer={handleAnswer}
+        {!showAnswers ? (
+          <div className="space-y-6 animate-fade-in">
+            <img
+              src={currentQuestion.img}
+              alt="imagem"
+              className="w-full max-h-96 object-contain rounded-lg border border-gray-200 shadow-sm"
             />
-          </>
+            <p className="text-lg leading-relaxed font-medium">
+              {currentQuestion.pergunta}
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {currentQuestion.alternativas.map((alt, idx) => (
+                <button
+                  key={idx}
+                  onClick={handleAnswerClick}
+                  className="bg-blue-100 hover:bg-blue-200 transition duration-200 text-blue-900 font-semibold px-4 py-2 rounded-lg border border-blue-300 shadow-sm"
+                >
+                  {alt}
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <div className="text-center animate-fade-in">
+            <h2 className="text-xl font-bold text-green-700 mb-4">Fim do Simulado 🎉</h2>
+            <p className="text-gray-600">Você concluiu todas as questões.</p>
+          </div>
         )}
-
-        <ResultModal
-          show={showModal}
-          questions={questoes}
-          userAnswers={userAnswers}
-          onRestart={restartQuiz}
-        />
       </div>
     </div>
-  )
+  );
 }
