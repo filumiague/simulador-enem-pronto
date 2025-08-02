@@ -6,27 +6,11 @@ import ProgressBar from '../components/ProgressBar'
 import ResultModal from '../components/ResultModal'
 import { carregarQuestoesAleatorias } from '../fetchQuestoes'
 
-type Questao = {
-  ano: number
-  materia: string
-  numero: number
-  questao: string
-  alternativas: {
-    a: string
-    b: string
-    c: string
-    d: string
-    e: string
-  }
-  correta: string
-  imagens?: string[]
-}
-
 export default function Home() {
-  const [questoes, setQuestoes] = useState<Questao[]>([])
+  const [questoes, setQuestoes] = useState([])
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
-  const [userAnswers, setUserAnswers] = useState<string[]>([])
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
+  const [userAnswers, setUserAnswers] = useState([])
+  const [selectedAnswer, setSelectedAnswer] = useState(null)
   const [showModal, setShowModal] = useState(false)
   const [quizStarted, setQuizStarted] = useState(false)
 
@@ -42,7 +26,7 @@ export default function Home() {
     carregar()
   }, [])
 
-  const handleAnswer = (answer: string) => {
+  const handleAnswer = (answer) => {
     setSelectedAnswer(answer)
     setTimeout(() => {
       setUserAnswers((prev) => [...prev, answer])
@@ -63,34 +47,39 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-100 p-4">
-      <h1 className="text-2xl font-bold mb-4">Simulado ENEM com Imagens</h1>
-      {!quizStarted ? (
-        <button
-          className="bg-blue-500 text-white px-4 py-2 rounded"
-          onClick={() => setQuizStarted(true)}
-        >
-          Iniciar simulado
-        </button>
-      ) : questoes.length === 0 ? (
-        <p>Carregando questões...</p>
-      ) : (
-        <>
-          <ProgressBar current={currentQuestionIndex + 1} total={questoes.length} />
-          <QuestionCard
-            question={questoes[currentQuestionIndex]}
-            selected={selectedAnswer}
-            onAnswer={handleAnswer}
-          />
-        </>
-      )}
-      <ResultModal
-        show={showModal}
-        questions={questoes}
-        userAnswers={userAnswers}
-        onRestart={restartQuiz}
-      />
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-slate-900 to-slate-800 text-white px-4 py-6">
+      <div className="w-full max-w-3xl">
+        <h1 className="text-3xl font-bold text-center mb-6">Simulado ENEM com Imagens</h1>
+
+        {!quizStarted ? (
+          <div className="text-center">
+            <button
+              onClick={() => setQuizStarted(true)}
+              className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md shadow-lg transition-all"
+            >
+              Iniciar Simulado
+            </button>
+          </div>
+        ) : questoes.length === 0 ? (
+          <p className="text-center">Carregando questões...</p>
+        ) : (
+          <>
+            <ProgressBar current={currentQuestionIndex + 1} total={questoes.length} />
+            <QuestionCard
+              questao={questoes[currentQuestionIndex]}
+              selected={selectedAnswer}
+              onAnswer={handleAnswer}
+            />
+          </>
+        )}
+
+        <ResultModal
+          show={showModal}
+          questions={questoes}
+          userAnswers={userAnswers}
+          onRestart={restartQuiz}
+        />
+      </div>
     </div>
   )
 }
-

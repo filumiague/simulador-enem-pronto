@@ -1,21 +1,38 @@
-export default function QuestionCard({ question, selected, onAnswer }) {
+// components/QuestionCard.jsx
+export default function QuestionCard({ questao, selected, onAnswer }) {
   return (
-    <div className="mt-8">
-      {question.imagens?.length > 0 && (
-        <img src={question.imagens[0]} alt="imagem" className="mb-4" />
-      )}
-      <p className="mb-4">{question.questao}</p>
-      {['a', 'b', 'c', 'd', 'e'].map((key) => (
-        <button
-          key={key}
-          onClick={() => onAnswer(key)}
-          className={`block w-full text-left border p-2 mb-2 rounded ${
-            selected === key ? 'bg-blue-100' : ''
-          }`}
-        >
-          {key}) {question.alternativas[key]}
-        </button>
+    <div className="bg-white shadow-lg rounded-2xl p-6 transition-transform duration-300 transform hover:scale-[1.01]">
+      <h2 className="text-xl font-bold text-blue-700 mb-4">
+        Questão {questao.numero} - {questao.materia} ({questao.ano})
+      </h2>
+
+      {questao.imagens?.map((url, idx) => (
+        <img
+          key={idx}
+          src={url}
+          alt={`Imagem ${idx + 1}`}
+          className="w-full mb-4 rounded-md border"
+        />
       ))}
+
+      <p className="mb-4 text-gray-800 leading-relaxed">{questao.questao}</p>
+
+      <div className="space-y-2">
+        {Object.entries(questao.alternativas).map(([letra, texto]) => (
+          <button
+            key={letra}
+            onClick={() => onAnswer(letra)}
+            className={`w-full text-left px-4 py-3 rounded-md border transition duration-200
+              ${selected === letra ?
+                'bg-blue-500 text-white border-blue-600' :
+                'hover:bg-blue-100 border-gray-300 bg-white'}
+            `}
+            disabled={!!selected}
+          >
+            <strong className="mr-2">{letra.toUpperCase()})</strong> {texto}
+          </button>
+        ))}
+      </div>
     </div>
-  );
+  )
 }
